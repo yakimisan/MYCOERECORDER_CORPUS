@@ -1,0 +1,3262 @@
+[
+  {
+    "ID": "AISATSU_001",
+    "mergedcorpus": "AISATSU_001:おはようございます。",
+    "MYCOEIROINK_corpus": "おはようございます。"
+  },
+  {
+    "ID": "AISATSU_002",
+    "mergedcorpus": "AISATSU_002:今日も絶好のゲーム日和ですね。",
+    "MYCOEIROINK_corpus": "今日も絶好のゲーム日和ですね。"
+  },
+  {
+    "ID": "AISATSU_003",
+    "mergedcorpus": "AISATSU_003:おはよう、諸君。",
+    "MYCOEIROINK_corpus": "おはよう、諸君。"
+  },
+  {
+    "ID": "AISATSU_004",
+    "mergedcorpus": "AISATSU_004:こんにちは、休憩時間に遊びにきちゃいました。",
+    "MYCOEIROINK_corpus": "こんにちは、休憩時間に遊びにきちゃいました。"
+  },
+  {
+    "ID": "AISATSU_005",
+    "mergedcorpus": "AISATSU_005:こんばんは、声聞こえてますか？",
+    "MYCOEIROINK_corpus": "こんばんは、声聞こえてますか？"
+  },
+  {
+    "ID": "AISATSU_006",
+    "mergedcorpus": "AISATSU_006:みなさん、いかがお過ごしでしょうか。",
+    "MYCOEIROINK_corpus": "みなさん、いかがお過ごしでしょうか。"
+  },
+  {
+    "ID": "AISATSU_007",
+    "mergedcorpus": "AISATSU_007:それでは、前回の続きから進めていきましょう。",
+    "MYCOEIROINK_corpus": "それでは、前回の続きから進めていきましょう。"
+  },
+  {
+    "ID": "AISATSU_008",
+    "mergedcorpus": "AISATSU_008:この動画はフィクションです。",
+    "MYCOEIROINK_corpus": "この動画はフィクションです。"
+  },
+  {
+    "ID": "AISATSU_009",
+    "mergedcorpus": "AISATSU_009:実在の人物や団体、事件などとは、一切関係ありません。",
+    "MYCOEIROINK_corpus": "実在の人物や団体、事件などとは、一切関係ありません。"
+  },
+  {
+    "ID": "AISATSU_010",
+    "mergedcorpus": "AISATSU_010:ゲームの一部に、暴力などの残酷な描写が含まれています。",
+    "MYCOEIROINK_corpus": "ゲームの一部に、暴力などの残酷な描写が含まれています。"
+  },
+  {
+    "ID": "AISATSU_011",
+    "mergedcorpus": "AISATSU_011:必ず、注意事項をお読みください。",
+    "MYCOEIROINK_corpus": "必ず、注意事項をお読みください。"
+  },
+  {
+    "ID": "AISATSU_012",
+    "mergedcorpus": "AISATSU_012:よろしくお願いします。",
+    "MYCOEIROINK_corpus": "よろしくお願いします。"
+  },
+  {
+    "ID": "AISATSU_013",
+    "mergedcorpus": "AISATSU_013:ご視聴ありがとうございました。",
+    "MYCOEIROINK_corpus": "ご視聴ありがとうございました。"
+  },
+  {
+    "ID": "AISATSU_014",
+    "mergedcorpus": "AISATSU_014:ご清聴いただき、誠にありがとうございます。",
+    "MYCOEIROINK_corpus": "ご清聴いただき、誠にありがとうございます。"
+  },
+  {
+    "ID": "AISATSU_015",
+    "mergedcorpus": "AISATSU_015:チャンネル登録、高評価、ツイッターのフォローもお願いします。",
+    "MYCOEIROINK_corpus": "チャンネル登録、高評価、ツイッターのフォローもお願いします。"
+  },
+  {
+    "ID": "AISATSU_016",
+    "mergedcorpus": "AISATSU_016:マイリスト、イイネもしてくれたら嬉しいな。",
+    "MYCOEIROINK_corpus": "マイリスト、イイネもしてくれたら嬉しいな。"
+  },
+  {
+    "ID": "AISATSU_017",
+    "mergedcorpus": "AISATSU_017:通知もオンにしてね。",
+    "MYCOEIROINK_corpus": "通知もオンにしてね。"
+  },
+  {
+    "ID": "AISATSU_018",
+    "mergedcorpus": "AISATSU_018:ご広告いただき、感謝です。",
+    "MYCOEIROINK_corpus": "ご広告いただき、感謝です。"
+  },
+  {
+    "ID": "AISATSU_019",
+    "mergedcorpus": "AISATSU_019:ギフトありがとうございます。",
+    "MYCOEIROINK_corpus": "ギフトありがとうございます。"
+  },
+  {
+    "ID": "AISATSU_020",
+    "mergedcorpus": "AISATSU_020:さようなら、またお会いしましょう。",
+    "MYCOEIROINK_corpus": "さようなら、またお会いしましょう。"
+  },
+  {
+    "ID": "AISATSU_021",
+    "mergedcorpus": "AISATSU_021:それでは、ここで終わりたいと思います。",
+    "MYCOEIROINK_corpus": "それでは、ここで終わりたいと思います。"
+  },
+  {
+    "ID": "AISATSU_022",
+    "mergedcorpus": "AISATSU_022:またね、ばいばーい。",
+    "MYCOEIROINK_corpus": "またね、ばいばーい。"
+  },
+  {
+    "ID": "AISATSU_023",
+    "mergedcorpus": "AISATSU_023:じゃあね、お元気で。",
+    "MYCOEIROINK_corpus": "じゃあね、お元気で。"
+  },
+  {
+    "ID": "AISATSU_024",
+    "mergedcorpus": "AISATSU_024:ありがとう。",
+    "MYCOEIROINK_corpus": "ありがとう。"
+  },
+  {
+    "ID": "EMOTION100_001",
+    "mergedcorpus": "EMOTION100_001:えっ嘘でしょ。",
+    "MYCOEIROINK_corpus": "えっ嘘でしょ。"
+  },
+  {
+    "ID": "EMOTION100_002",
+    "mergedcorpus": "EMOTION100_002:シュヴァイツァーは見習うべき人間です。",
+    "MYCOEIROINK_corpus": "シュヴァイツァーは見習うべき人間です。"
+  },
+  {
+    "ID": "EMOTION100_003",
+    "mergedcorpus": "EMOTION100_003:デーヴィスさんはとても疲れているように見える。",
+    "MYCOEIROINK_corpus": "デーヴィスさんはとても疲れているように見える。"
+  },
+  {
+    "ID": "EMOTION100_004",
+    "mergedcorpus": "EMOTION100_004:スティーヴはジェーンから手紙をもらった。",
+    "MYCOEIROINK_corpus": "スティーヴはジェーンから手紙をもらった。"
+  },
+  {
+    "ID": "EMOTION100_005",
+    "mergedcorpus": "EMOTION100_005:彼女はモーツァルトやベートーヴェンといった、古典派の作曲家が好きだ。",
+    "MYCOEIROINK_corpus": "彼女はモーツァルトやベートーヴェンといった、古典派の作曲家が好きだ。"
+  },
+  {
+    "ID": "EMOTION100_006",
+    "mergedcorpus": "EMOTION100_006:ストラットフォードオンエイヴォンは、シェイクスピアの生まれたところですが、毎年多くの観光客が訪れます。",
+    "MYCOEIROINK_corpus": "ストラットフォードオンエイヴォンは、シェイクスピアの生まれたところですが、毎年多くの観光客が訪れます。"
+  },
+  {
+    "ID": "EMOTION100_007",
+    "mergedcorpus": "EMOTION100_007:彼はピューマを慣らすのに、大いに骨を折った。",
+    "MYCOEIROINK_corpus": "彼はピューマを慣らすのに、大いに骨を折った。"
+  },
+  {
+    "ID": "EMOTION100_008",
+    "mergedcorpus": "EMOTION100_008:彼が解雇されるとは妙な話だ。",
+    "MYCOEIROINK_corpus": "彼が解雇されるとは妙な話だ。"
+  },
+  {
+    "ID": "EMOTION100_009",
+    "mergedcorpus": "EMOTION100_009:クリスはヴァンパイアナイトを倒した。",
+    "MYCOEIROINK_corpus": "クリスはヴァンパイアナイトを倒した。"
+  },
+  {
+    "ID": "EMOTION100_010",
+    "mergedcorpus": "EMOTION100_010:彼のあだ名は言い得て妙だよね。",
+    "MYCOEIROINK_corpus": "彼のあだ名は言い得て妙だよね。"
+  },
+  {
+    "ID": "EMOTION100_011",
+    "mergedcorpus": "EMOTION100_011:イタリア旅行で彼は、いくつか景勝の地として有名な都市、例えば、ナポリやフィレンツェを訪れた。",
+    "MYCOEIROINK_corpus": "イタリア旅行で彼は、いくつか景勝の地として有名な都市、例えば、ナポリやフィレンツェを訪れた。"
+  },
+  {
+    "ID": "EMOTION100_012",
+    "mergedcorpus": "EMOTION100_012:ゼロという概念は、ヒンドゥー文化に由来している。",
+    "MYCOEIROINK_corpus": "ゼロという概念は、ヒンドゥー文化に由来している。"
+  },
+  {
+    "ID": "EMOTION100_013",
+    "mergedcorpus": "EMOTION100_013:そのいたずら娘は何食わぬ顔をした。",
+    "MYCOEIROINK_corpus": "そのいたずら娘は何食わぬ顔をした。"
+  },
+  {
+    "ID": "EMOTION100_014",
+    "mergedcorpus": "EMOTION100_014:スミスさん、ピエールデュボワをご紹介しますわ。私の親友なの。",
+    "MYCOEIROINK_corpus": "スミスさん、ピエールデュボワをご紹介しますわ。私の親友なの。"
+  },
+  {
+    "ID": "EMOTION100_015",
+    "mergedcorpus": "EMOTION100_015:どーすんの、このお店。完ッ全に閑古鳥が鳴いちゃってるじゃない。",
+    "MYCOEIROINK_corpus": "どーすんの、このお店。完ッ全に閑古鳥が鳴いちゃってるじゃない。"
+  },
+  {
+    "ID": "EMOTION100_016",
+    "mergedcorpus": "EMOTION100_016:頂上に着くとミンナでヤッホーと叫んだ。",
+    "MYCOEIROINK_corpus": "頂上に着くとミンナでヤッホーと叫んだ。"
+  },
+  {
+    "ID": "EMOTION100_017",
+    "mergedcorpus": "EMOTION100_017:あっベルが鳴ってる。",
+    "MYCOEIROINK_corpus": "あっベルが鳴ってる。"
+  },
+  {
+    "ID": "EMOTION100_018",
+    "mergedcorpus": "EMOTION100_018:彼女は彼にぴょこんとおじぎをした。",
+    "MYCOEIROINK_corpus": "彼女は彼にぴょこんとおじぎをした。"
+  },
+  {
+    "ID": "EMOTION100_019",
+    "mergedcorpus": "EMOTION100_019:男子生徒のめいめいが、帽子に学校のバッジをつけています。",
+    "MYCOEIROINK_corpus": "男子生徒のめいめいが、帽子に学校のバッジをつけています。"
+  },
+  {
+    "ID": "EMOTION100_020",
+    "mergedcorpus": "EMOTION100_020:ヒューズが飛んだ。",
+    "MYCOEIROINK_corpus": "ヒューズが飛んだ。"
+  },
+  {
+    "ID": "EMOTION100_021",
+    "mergedcorpus": "EMOTION100_021:私はポピュラー音楽を聞きたい。",
+    "MYCOEIROINK_corpus": "私はポピュラー音楽を聞きたい。"
+  },
+  {
+    "ID": "EMOTION100_022",
+    "mergedcorpus": "EMOTION100_022:猫はにゃーにゃーと鳴く。",
+    "MYCOEIROINK_corpus": "猫はにゃーにゃーと鳴く。"
+  },
+  {
+    "ID": "EMOTION100_023",
+    "mergedcorpus": "EMOTION100_023:私の一番上の兄が父のミョーダイとしてその会合に出席した。",
+    "MYCOEIROINK_corpus": "私の一番上の兄が父のミョーダイとしてその会合に出席した。"
+  },
+  {
+    "ID": "EMOTION100_024",
+    "mergedcorpus": "EMOTION100_024:彼は首相にインタビューした。",
+    "MYCOEIROINK_corpus": "彼は首相にインタビューした。"
+  },
+  {
+    "ID": "EMOTION100_025",
+    "mergedcorpus": "EMOTION100_025:その会社の急速な成長は、その独特な戦略によるものだった。",
+    "MYCOEIROINK_corpus": "その会社の急速な成長は、その独特な戦略によるものだった。"
+  },
+  {
+    "ID": "EMOTION100_026",
+    "mergedcorpus": "EMOTION100_026:私はいつもミネラルウォーターを持ち歩いています。",
+    "MYCOEIROINK_corpus": "私はいつもミネラルウォーターを持ち歩いています。"
+  },
+  {
+    "ID": "EMOTION100_027",
+    "mergedcorpus": "EMOTION100_027:彼女はハンドバッグを開けて家の鍵を探してみたが、見つからなかった。",
+    "MYCOEIROINK_corpus": "彼女はハンドバッグを開けて家の鍵を探してみたが、見つからなかった。"
+  },
+  {
+    "ID": "EMOTION100_028",
+    "mergedcorpus": "EMOTION100_028:彼女はスタッフをまとめていけると思いますか？",
+    "MYCOEIROINK_corpus": "彼女はスタッフをまとめていけると思いますか？"
+  },
+  {
+    "ID": "EMOTION100_029",
+    "mergedcorpus": "EMOTION100_029:牛乳はあなたの体に良いだろう、毎日飲んだほうがいい。",
+    "MYCOEIROINK_corpus": "牛乳はあなたの体に良いだろう、毎日飲んだほうがいい。"
+  },
+  {
+    "ID": "EMOTION100_030",
+    "mergedcorpus": "EMOTION100_030:あなたは流感になりかけているか、もっと重い病気かもしれません。",
+    "MYCOEIROINK_corpus": "あなたは流感になりかけているか、もっと重い病気かもしれません。"
+  },
+  {
+    "ID": "EMOTION100_031",
+    "mergedcorpus": "EMOTION100_031:彼女はその事件を、生き生きとした筆致で描写した。",
+    "MYCOEIROINK_corpus": "彼女はその事件を、生き生きとした筆致で描写した。"
+  },
+  {
+    "ID": "EMOTION100_032",
+    "mergedcorpus": "EMOTION100_032:彼は自らの生涯を、インドでの病人の治療に捧げるつもりだ。",
+    "MYCOEIROINK_corpus": "彼は自らの生涯を、インドでの病人の治療に捧げるつもりだ。"
+  },
+  {
+    "ID": "EMOTION100_033",
+    "mergedcorpus": "EMOTION100_033:奇妙な男で、彼は人から話し掛けられないと口をきかない。",
+    "MYCOEIROINK_corpus": "奇妙な男で、彼は人から話し掛けられないと口をきかない。"
+  },
+  {
+    "ID": "EMOTION100_034",
+    "mergedcorpus": "EMOTION100_034:我々はその山脈で土着のガイドを雇った。",
+    "MYCOEIROINK_corpus": "我々はその山脈で土着のガイドを雇った。"
+  },
+  {
+    "ID": "EMOTION100_035",
+    "mergedcorpus": "EMOTION100_035:彼女は息子に家で行儀よくするように言った。",
+    "MYCOEIROINK_corpus": "彼女は息子に家で行儀よくするように言った。"
+  },
+  {
+    "ID": "EMOTION100_036",
+    "mergedcorpus": "EMOTION100_036:彼はライフルを拾い上げ、それで標的をねらった。",
+    "MYCOEIROINK_corpus": "彼はライフルを拾い上げ、それで標的をねらった。"
+  },
+  {
+    "ID": "EMOTION100_037",
+    "mergedcorpus": "EMOTION100_037:私はこの本に八百円を払った。",
+    "MYCOEIROINK_corpus": "私はこの本に八百円を払った。"
+  },
+  {
+    "ID": "EMOTION100_038",
+    "mergedcorpus": "EMOTION100_038:気分が悪くて入院したが、結果的にはたいしたことはなかった。",
+    "MYCOEIROINK_corpus": "気分が悪くて入院したが、結果的にはたいしたことはなかった。"
+  },
+  {
+    "ID": "EMOTION100_039",
+    "mergedcorpus": "EMOTION100_039:アフィ狙いの釣り記事ですね。英語関係のコミュのあちこちにマルチポストしています。",
+    "MYCOEIROINK_corpus": "アフィ狙いの釣り記事ですね。英語関係のコミュのあちこちにマルチポストしています。"
+  },
+  {
+    "ID": "EMOTION100_040",
+    "mergedcorpus": "EMOTION100_040:トラベラーズチェックを現金に替えてくれるのはこの窓口ですか？",
+    "MYCOEIROINK_corpus": "トラベラーズチェックを現金に替えてくれるのはこの窓口ですか？"
+  },
+  {
+    "ID": "EMOTION100_041",
+    "mergedcorpus": "EMOTION100_041:本日の映画は、サウンドオブミュージックでございます。",
+    "MYCOEIROINK_corpus": "本日の映画は、サウンドオブミュージックでございます。"
+  },
+  {
+    "ID": "EMOTION100_042",
+    "mergedcorpus": "EMOTION100_042:概してわれわれニホンジンは、外国語を話すのに少し臆病すぎる。",
+    "MYCOEIROINK_corpus": "概してわれわれニホンジンは、外国語を話すのに少し臆病すぎる。"
+  },
+  {
+    "ID": "EMOTION100_043",
+    "mergedcorpus": "EMOTION100_043:店の人は私のことを知るようになり、私はいつも同じウェイトレスに応対してもらっていた。",
+    "MYCOEIROINK_corpus": "店の人は私のことを知るようになり、私はいつも同じウェイトレスに応対してもらっていた。"
+  },
+  {
+    "ID": "EMOTION100_044",
+    "mergedcorpus": "EMOTION100_044:この丘からは何百万という星が見える。",
+    "MYCOEIROINK_corpus": "この丘からは何百万という星が見える。"
+  },
+  {
+    "ID": "EMOTION100_045",
+    "mergedcorpus": "EMOTION100_045:彼女は大学に入学したら、親から経済的に独立しようと思っていた。",
+    "MYCOEIROINK_corpus": "彼女は大学に入学したら、親から経済的に独立しようと思っていた。"
+  },
+  {
+    "ID": "EMOTION100_046",
+    "mergedcorpus": "EMOTION100_046:サブマリンのペリスコープが、水中からにょっきり突き出ていた。",
+    "MYCOEIROINK_corpus": "サブマリンのペリスコープが、水中からにょっきり突き出ていた。"
+  },
+  {
+    "ID": "EMOTION100_047",
+    "mergedcorpus": "EMOTION100_047:別にブルマに特別な関心があるわけじゃない。",
+    "MYCOEIROINK_corpus": "別にブルマに特別な関心があるわけじゃない。"
+  },
+  {
+    "ID": "EMOTION100_048",
+    "mergedcorpus": "EMOTION100_048:そういうフェティシズムはないと思う。",
+    "MYCOEIROINK_corpus": "そういうフェティシズムはないと思う。"
+  },
+  {
+    "ID": "EMOTION100_049",
+    "mergedcorpus": "EMOTION100_049:ウッド夫人が作ってくれるおいしい田舎風の料理を食べたし、ミルクをたくさん飲みました。",
+    "MYCOEIROINK_corpus": "ウッド夫人が作ってくれるおいしい田舎風の料理を食べたし、ミルクをたくさん飲みました。"
+  },
+  {
+    "ID": "EMOTION100_050",
+    "mergedcorpus": "EMOTION100_050:私の妻が瓶をわってしまったので、台所の床は牛乳だらけになっている。",
+    "MYCOEIROINK_corpus": "私の妻が瓶をわってしまったので、台所の床は牛乳だらけになっている。"
+  },
+  {
+    "ID": "EMOTION100_051",
+    "mergedcorpus": "EMOTION100_051:喧嘩をしていた二人の子供は、お互いにしかめっ面をして座っていた。",
+    "MYCOEIROINK_corpus": "喧嘩をしていた二人の子供は、お互いにしかめっ面をして座っていた。"
+  },
+  {
+    "ID": "EMOTION100_052",
+    "mergedcorpus": "EMOTION100_052:事業を継続しながら、事業が依拠している不動産を、切り売りしていくことなど非現実的なのだ。",
+    "MYCOEIROINK_corpus": "事業を継続しながら、事業が依拠している不動産を、切り売りしていくことなど非現実的なのだ。"
+  },
+  {
+    "ID": "EMOTION100_053",
+    "mergedcorpus": "EMOTION100_053:しかしペパーバーグは、そのオウムを研究することによって、動物に対する考え方が変わったと言っている。",
+    "MYCOEIROINK_corpus": "しかしペパーバーグは、そのオウムを研究することによって、動物に対する考え方が変わったと言っている。"
+  },
+  {
+    "ID": "EMOTION100_054",
+    "mergedcorpus": "EMOTION100_054:パックマンがある条件を満たすと、追ってくるモンスターを逆襲して食べることができる。",
+    "MYCOEIROINK_corpus": "パックマンがある条件を満たすと、追ってくるモンスターを逆襲して食べることができる。"
+  },
+  {
+    "ID": "EMOTION100_055",
+    "mergedcorpus": "EMOTION100_055:その数百年後に、フォークが西洋のテーブルに現れることになるが、ただちに受け入れられたわけではなかった。",
+    "MYCOEIROINK_corpus": "その数百年後に、フォークが西洋のテーブルに現れることになるが、ただちに受け入れられたわけではなかった。"
+  },
+  {
+    "ID": "EMOTION100_056",
+    "mergedcorpus": "EMOTION100_056:トップのリーダーは犬の行動学ではアルファと呼ばれ、以下ベータ、ガンマと続きます。",
+    "MYCOEIROINK_corpus": "トップのリーダーは犬の行動学ではアルファと呼ばれ、以下ベータ、ガンマと続きます。"
+  },
+  {
+    "ID": "EMOTION100_057",
+    "mergedcorpus": "EMOTION100_057:ウィーンまでは歩くとどのくらいかかりますか？",
+    "MYCOEIROINK_corpus": "ウィーンまでは歩くとどのくらいかかりますか？"
+  },
+  {
+    "ID": "EMOTION100_058",
+    "mergedcorpus": "EMOTION100_058:すみません、このヘンに詳しくないんです。",
+    "MYCOEIROINK_corpus": "すみません、このヘンに詳しくないんです。"
+  },
+  {
+    "ID": "EMOTION100_059",
+    "mergedcorpus": "EMOTION100_059:目標は授業設計をするときの、学生の思考を触発するメディア教材の選択および、活用方法について理解することである。",
+    "MYCOEIROINK_corpus": "目標は授業設計をするときの、学生の思考を触発するメディア教材の選択および、活用方法について理解することである。"
+  },
+  {
+    "ID": "EMOTION100_060",
+    "mergedcorpus": "EMOTION100_060:とりあえず店の前、掃除しといてくれ。打ち水も頼む。",
+    "MYCOEIROINK_corpus": "とりあえず店の前、掃除しといてくれ。打ち水も頼む。"
+  },
+  {
+    "ID": "EMOTION100_061",
+    "mergedcorpus": "EMOTION100_061:人々はトーナメントが始まる何ヶ月も前に、これらの入場券を買う。",
+    "MYCOEIROINK_corpus": "人々はトーナメントが始まる何ヶ月も前に、これらの入場券を買う。"
+  },
+  {
+    "ID": "EMOTION100_062",
+    "mergedcorpus": "EMOTION100_062:彼女の魅力は言葉では表現できない、とその芸術家は叫んだ。",
+    "MYCOEIROINK_corpus": "彼女の魅力は言葉では表現できない、とその芸術家は叫んだ。"
+  },
+  {
+    "ID": "EMOTION100_063",
+    "mergedcorpus": "EMOTION100_063:事象として簡単なことを、いかにも難しそうに表現する人は、あまり頭がよさそうではない。",
+    "MYCOEIROINK_corpus": "事象として簡単なことを、いかにも難しそうに表現する人は、あまり頭がよさそうではない。"
+  },
+  {
+    "ID": "EMOTION100_064",
+    "mergedcorpus": "EMOTION100_064:デザインも、アーチ型のロゴデザインにより、現代的で登場感、躍動感あるものに仕上げました。",
+    "MYCOEIROINK_corpus": "デザインも、アーチ型のロゴデザインにより、現代的で登場感、躍動感あるものに仕上げました。"
+  },
+  {
+    "ID": "EMOTION100_065",
+    "mergedcorpus": "EMOTION100_065:そんなに慌てて運転して、一体どこへ行こうってんだよ。",
+    "MYCOEIROINK_corpus": "そんなに慌てて運転して、一体どこへ行こうってんだよ。"
+  },
+  {
+    "ID": "EMOTION100_066",
+    "mergedcorpus": "EMOTION100_066:時間はあるんだから、安全運転してくれよ。",
+    "MYCOEIROINK_corpus": "時間はあるんだから、安全運転してくれよ。"
+  },
+  {
+    "ID": "EMOTION100_067",
+    "mergedcorpus": "EMOTION100_067:ディスプレイはモニタともいい、コンピュータなどの機器から出力される静止画、または動画の映像信号を表示する機器である。",
+    "MYCOEIROINK_corpus": "ディスプレイはモニタともいい、コンピュータなどの機器から出力される静止画、または動画の映像信号を表示する機器である。"
+  },
+  {
+    "ID": "EMOTION100_068",
+    "mergedcorpus": "EMOTION100_068:撃ち合いが少し静まったとき、パパが走ってフラットに行って、私たちにサンドイッチを持ってきてくれたわ。",
+    "MYCOEIROINK_corpus": "撃ち合いが少し静まったとき、パパが走ってフラットに行って、私たちにサンドイッチを持ってきてくれたわ。"
+  },
+  {
+    "ID": "EMOTION100_069",
+    "mergedcorpus": "EMOTION100_069:ギリシャのフットボールの試合では、一方のチームの選手は、相手チームの陣地のラインの向こう側にボールを持ち込もうとしたのです。",
+    "MYCOEIROINK_corpus": "ギリシャのフットボールの試合では、一方のチームの選手は、相手チームの陣地のラインの向こう側にボールを持ち込もうとしたのです。"
+  },
+  {
+    "ID": "EMOTION100_070",
+    "mergedcorpus": "EMOTION100_070:泳者のシンディーニコラスは、へとへとになって泳ぎ切った後、ドーバーでかろうじて陸に上がってきたが、海峡水泳協会のスポークスマンは、彼女がとても元気であると発表した。",
+    "MYCOEIROINK_corpus": "泳者のシンディーニコラスは、へとへとになって泳ぎ切った後、ドーバーでかろうじて陸に上がってきたが、海峡水泳協会のスポークスマンは、彼女がとても元気であると発表した。"
+  },
+  {
+    "ID": "EMOTION100_071",
+    "mergedcorpus": "EMOTION100_071:若い男女が人里離れた洋館で恐怖の一夜を過ごすという、ホラーの定番スタイルだ。",
+    "MYCOEIROINK_corpus": "若い男女が人里離れた洋館で恐怖の一夜を過ごすという、ホラーの定番スタイルだ。"
+  },
+  {
+    "ID": "EMOTION100_072",
+    "mergedcorpus": "EMOTION100_072:一つには、西洋人ではない人々が自分たち独自の文化に誇りを持ち始めてきたためと、また一つには、フォークを使わないそれらの地域は最も高い出生率の地域を抱えているという理由から、このことは当たっている。",
+    "MYCOEIROINK_corpus": "一つには、西洋人ではない人々が自分たち独自の文化に誇りを持ち始めてきたためと、また一つには、フォークを使わないそれらの地域は最も高い出生率の地域を抱えているという理由から、このことは当たっている。"
+  },
+  {
+    "ID": "EMOTION100_073",
+    "mergedcorpus": "EMOTION100_073:私たちは恐怖の中で生きていて、苦しんでいるの。",
+    "MYCOEIROINK_corpus": "私たちは恐怖の中で生きていて、苦しんでいるの。"
+  },
+  {
+    "ID": "EMOTION100_074",
+    "mergedcorpus": "EMOTION100_074:太陽も花も楽しめないし、私たちの子供時代も楽しめないのよ。",
+    "MYCOEIROINK_corpus": "太陽も花も楽しめないし、私たちの子供時代も楽しめないのよ。"
+  },
+  {
+    "ID": "EMOTION100_075",
+    "mergedcorpus": "EMOTION100_075:弊社のエンジニアがニホンコクナイで販売されている同様の製品と仕様を比較した結果、非常に競合力があると判断いたしました。",
+    "MYCOEIROINK_corpus": "弊社のエンジニアがニホンコクナイで販売されている同様の製品と仕様を比較した結果、非常に競合力があると判断いたしました。"
+  },
+  {
+    "ID": "EMOTION100_076",
+    "mergedcorpus": "EMOTION100_076:ノースウエスタン大学の研究者、アイリーンペパーバーグは、オウムは人の口まねをするだけでなく言葉の意味を学ぶことができることを発見しつつある。",
+    "MYCOEIROINK_corpus": "ノースウエスタン大学の研究者、アイリーンペパーバーグは、オウムは人の口まねをするだけでなく言葉の意味を学ぶことができることを発見しつつある。"
+  },
+  {
+    "ID": "EMOTION100_077",
+    "mergedcorpus": "EMOTION100_077:名前をテョといいます。",
+    "MYCOEIROINK_corpus": "名前をテョといいます。"
+  },
+  {
+    "ID": "EMOTION100_078",
+    "mergedcorpus": "EMOTION100_078:ぴゅうぴゅう風が吹きこんでくる。",
+    "MYCOEIROINK_corpus": "ぴゅうぴゅう風が吹きこんでくる。"
+  },
+  {
+    "ID": "EMOTION100_079",
+    "mergedcorpus": "EMOTION100_079:キェー。ギェー。イェーイ。",
+    "MYCOEIROINK_corpus": "キェー。ギェー。イェーイ。"
+  },
+  {
+    "ID": "EMOTION100_080",
+    "mergedcorpus": "EMOTION100_080:ひぇーん。びぇーん。ぴぇーん。",
+    "MYCOEIROINK_corpus": "ひぇーん。びぇーん。ぴぇーん。"
+  },
+  {
+    "ID": "EMOTION100_081",
+    "mergedcorpus": "EMOTION100_081:プリミェー。ミェルン。ニェン。",
+    "MYCOEIROINK_corpus": "プリミェー。ミェルン。ニェン。"
+  },
+  {
+    "ID": "EMOTION100_082",
+    "mergedcorpus": "EMOTION100_082:ステューデント。ダブルデュアル。",
+    "MYCOEIROINK_corpus": "ステューデント。ダブルデュアル。"
+  },
+  {
+    "ID": "EMOTION100_083",
+    "mergedcorpus": "EMOTION100_083:エテュード。エデュケーショナル。サブスティテューション。",
+    "MYCOEIROINK_corpus": "エテュード。エデュケーショナル。サブスティテューション。"
+  },
+  {
+    "ID": "EMOTION100_084",
+    "mergedcorpus": "EMOTION100_084:ジャデャクシュ。",
+    "MYCOEIROINK_corpus": "ジャデャクシュ。"
+  },
+  {
+    "ID": "EMOTION100_085",
+    "mergedcorpus": "EMOTION100_085:ブレンドデョート。",
+    "MYCOEIROINK_corpus": "ブレンドデョート。"
+  },
+  {
+    "ID": "EMOTION100_086",
+    "mergedcorpus": "EMOTION100_086:イデュスルファーゼ。",
+    "MYCOEIROINK_corpus": "イデュスルファーゼ。"
+  },
+  {
+    "ID": "EMOTION100_087",
+    "mergedcorpus": "EMOTION100_087:あっあの。",
+    "MYCOEIROINK_corpus": "あっあの。"
+  },
+  {
+    "ID": "EMOTION100_088",
+    "mergedcorpus": "EMOTION100_088:いっいえ。",
+    "MYCOEIROINK_corpus": "いっいえ。"
+  },
+  {
+    "ID": "EMOTION100_089",
+    "mergedcorpus": "EMOTION100_089:えっえぇ。",
+    "MYCOEIROINK_corpus": "えっえぇ。"
+  },
+  {
+    "ID": "EMOTION100_090",
+    "mergedcorpus": "EMOTION100_090:おっおい。",
+    "MYCOEIROINK_corpus": "おっおい。"
+  },
+  {
+    "ID": "EMOTION100_091",
+    "mergedcorpus": "EMOTION100_091:んーとね。",
+    "MYCOEIROINK_corpus": "んーとね。"
+  },
+  {
+    "ID": "EMOTION100_092",
+    "mergedcorpus": "EMOTION100_092:アンツィオ。",
+    "MYCOEIROINK_corpus": "アンツィオ。"
+  },
+  {
+    "ID": "EMOTION100_093",
+    "mergedcorpus": "EMOTION100_093:エンツォ。",
+    "MYCOEIROINK_corpus": "エンツォ。"
+  },
+  {
+    "ID": "EMOTION100_094",
+    "mergedcorpus": "EMOTION100_094:カートゥーン。",
+    "MYCOEIROINK_corpus": "カートゥーン。"
+  },
+  {
+    "ID": "EMOTION100_095",
+    "mergedcorpus": "EMOTION100_095:スィーディー。",
+    "MYCOEIROINK_corpus": "スィーディー。"
+  },
+  {
+    "ID": "EMOTION100_096",
+    "mergedcorpus": "EMOTION100_096:ズィーブラ。",
+    "MYCOEIROINK_corpus": "ズィーブラ。"
+  },
+  {
+    "ID": "EMOTION100_097",
+    "mergedcorpus": "EMOTION100_097:デピュティーガバナー。",
+    "MYCOEIROINK_corpus": "デピュティーガバナー。"
+  },
+  {
+    "ID": "EMOTION100_098",
+    "mergedcorpus": "EMOTION100_098:エリュシオン。",
+    "MYCOEIROINK_corpus": "エリュシオン。"
+  },
+  {
+    "ID": "EMOTION100_099",
+    "mergedcorpus": "EMOTION100_099:ガリェント。",
+    "MYCOEIROINK_corpus": "ガリェント。"
+  },
+  {
+    "ID": "EMOTION100_100",
+    "mergedcorpus": "EMOTION100_100:ラーテャン。",
+    "MYCOEIROINK_corpus": "ラーテャン。"
+  },
+  {
+    "ID": "QUESTION2_001",
+    "mergedcorpus": "QUESTION2_001:必殺技って、いないいないばあ？",
+    "MYCOEIROINK_corpus": "必殺技って、いないいないばあ？"
+  },
+  {
+    "ID": "QUESTION2_002",
+    "mergedcorpus": "QUESTION2_002:そろそろ準備はいい？",
+    "MYCOEIROINK_corpus": "そろそろ準備はいい？"
+  },
+  {
+    "ID": "QUESTION2_003",
+    "mergedcorpus": "QUESTION2_003:牛は英語でカウ？",
+    "MYCOEIROINK_corpus": "牛は英語でカウ？"
+  },
+  {
+    "ID": "QUESTION2_004",
+    "mergedcorpus": "QUESTION2_004:これが今日使う、魚の撒き餌？",
+    "MYCOEIROINK_corpus": "これが今日使う、魚の撒き餌？"
+  },
+  {
+    "ID": "QUESTION2_005",
+    "mergedcorpus": "QUESTION2_005:岩の陰にいるのがオオサンショウウオ？",
+    "MYCOEIROINK_corpus": "岩の陰にいるのがオオサンショウウオ？"
+  },
+  {
+    "ID": "QUESTION2_006",
+    "mergedcorpus": "QUESTION2_006:つまり、察しろということだろうか？",
+    "MYCOEIROINK_corpus": "つまり、察しろということだろうか？"
+  },
+  {
+    "ID": "QUESTION2_007",
+    "mergedcorpus": "QUESTION2_007:いつまで遊んでるの兄貴？",
+    "MYCOEIROINK_corpus": "いつまで遊んでるの兄貴？"
+  },
+  {
+    "ID": "QUESTION2_008",
+    "mergedcorpus": "QUESTION2_008:そっか、今年から青色申告？",
+    "MYCOEIROINK_corpus": "そっか、今年から青色申告？"
+  },
+  {
+    "ID": "QUESTION2_009",
+    "mergedcorpus": "QUESTION2_009:誰にでもそういうことするわけ？",
+    "MYCOEIROINK_corpus": "誰にでもそういうことするわけ？"
+  },
+  {
+    "ID": "QUESTION2_010",
+    "mergedcorpus": "QUESTION2_010:あそこにいるのがいとこ？",
+    "MYCOEIROINK_corpus": "あそこにいるのがいとこ？"
+  },
+  {
+    "ID": "QUESTION2_011",
+    "mergedcorpus": "QUESTION2_011:それってどこで聞いたウワサ？",
+    "MYCOEIROINK_corpus": "それってどこで聞いたウワサ？"
+  },
+  {
+    "ID": "QUESTION2_012",
+    "mergedcorpus": "QUESTION2_012:あしたのごはんはお寿司？",
+    "MYCOEIROINK_corpus": "あしたのごはんはお寿司？"
+  },
+  {
+    "ID": "QUESTION2_013",
+    "mergedcorpus": "QUESTION2_013:エンチャントの重ねがけはできるです？",
+    "MYCOEIROINK_corpus": "エンチャントの重ねがけはできるです？"
+  },
+  {
+    "ID": "QUESTION2_014",
+    "mergedcorpus": "QUESTION2_014:しばらくのあいだ、こちらでお待ちくださいませ？",
+    "MYCOEIROINK_corpus": "しばらくのあいだ、こちらでお待ちくださいませ？"
+  },
+  {
+    "ID": "QUESTION2_015",
+    "mergedcorpus": "QUESTION2_015:もしかして、かわうそ？",
+    "MYCOEIROINK_corpus": "もしかして、かわうそ？"
+  },
+  {
+    "ID": "QUESTION2_016",
+    "mergedcorpus": "QUESTION2_016:そうだ、エグゼファイルは実行した？",
+    "MYCOEIROINK_corpus": "そうだ、エグゼファイルは実行した？"
+  },
+  {
+    "ID": "QUESTION2_017",
+    "mergedcorpus": "QUESTION2_017:さっきの勝負は誰の勝ち？",
+    "MYCOEIROINK_corpus": "さっきの勝負は誰の勝ち？"
+  },
+  {
+    "ID": "QUESTION2_018",
+    "mergedcorpus": "QUESTION2_018:使った画材は色鉛筆？",
+    "MYCOEIROINK_corpus": "使った画材は色鉛筆？"
+  },
+  {
+    "ID": "QUESTION2_019",
+    "mergedcorpus": "QUESTION2_019:いま加入している保険って掛け捨て？",
+    "MYCOEIROINK_corpus": "いま加入している保険って掛け捨て？"
+  },
+  {
+    "ID": "QUESTION2_020",
+    "mergedcorpus": "QUESTION2_020:インターネット契約が必要ってこと？",
+    "MYCOEIROINK_corpus": "インターネット契約が必要ってこと？"
+  },
+  {
+    "ID": "QUESTION2_021",
+    "mergedcorpus": "QUESTION2_021:俺たち友だちだよな？",
+    "MYCOEIROINK_corpus": "俺たち友だちだよな？"
+  },
+  {
+    "ID": "QUESTION2_022",
+    "mergedcorpus": "QUESTION2_022:作らなきゃいけないのは、栗の甘露煮？",
+    "MYCOEIROINK_corpus": "作らなきゃいけないのは、栗の甘露煮？"
+  },
+  {
+    "ID": "QUESTION2_023",
+    "mergedcorpus": "QUESTION2_023:この子はきみの飼い犬？",
+    "MYCOEIROINK_corpus": "この子はきみの飼い犬？"
+  },
+  {
+    "ID": "QUESTION2_024",
+    "mergedcorpus": "QUESTION2_024:ジャンプ撃ちは基本だよね？",
+    "MYCOEIROINK_corpus": "ジャンプ撃ちは基本だよね？"
+  },
+  {
+    "ID": "QUESTION2_025",
+    "mergedcorpus": "QUESTION2_025:それアンタが言うの？",
+    "MYCOEIROINK_corpus": "それアンタが言うの？"
+  },
+  {
+    "ID": "QUESTION2_026",
+    "mergedcorpus": "QUESTION2_026:さっきの声は母？",
+    "MYCOEIROINK_corpus": "さっきの声は母？"
+  },
+  {
+    "ID": "QUESTION2_027",
+    "mergedcorpus": "QUESTION2_027:今日はなんの日？",
+    "MYCOEIROINK_corpus": "今日はなんの日？"
+  },
+  {
+    "ID": "QUESTION2_028",
+    "mergedcorpus": "QUESTION2_028:あなたが最強のシェフ？",
+    "MYCOEIROINK_corpus": "あなたが最強のシェフ？"
+  },
+  {
+    "ID": "QUESTION2_029",
+    "mergedcorpus": "QUESTION2_029:可愛い笑い方って、えへへ？",
+    "MYCOEIROINK_corpus": "可愛い笑い方って、えへへ？"
+  },
+  {
+    "ID": "QUESTION2_030",
+    "mergedcorpus": "QUESTION2_030:それがガラケー型スマホ？",
+    "MYCOEIROINK_corpus": "それがガラケー型スマホ？"
+  },
+  {
+    "ID": "QUESTION2_031",
+    "mergedcorpus": "QUESTION2_031:これが君の隠し球？",
+    "MYCOEIROINK_corpus": "これが君の隠し球？"
+  },
+  {
+    "ID": "QUESTION2_032",
+    "mergedcorpus": "QUESTION2_032:えっ、私が若おかみ？",
+    "MYCOEIROINK_corpus": "えっ、私が若おかみ？"
+  },
+  {
+    "ID": "QUESTION2_033",
+    "mergedcorpus": "QUESTION2_033:デッキ構築系のカードゲーム？",
+    "MYCOEIROINK_corpus": "デッキ構築系のカードゲーム？"
+  },
+  {
+    "ID": "QUESTION2_034",
+    "mergedcorpus": "QUESTION2_034:残ってるのはあと書初め？",
+    "MYCOEIROINK_corpus": "残ってるのはあと書初め？"
+  },
+  {
+    "ID": "QUESTION2_035",
+    "mergedcorpus": "QUESTION2_035:買ってきたのって石焼き芋？",
+    "MYCOEIROINK_corpus": "買ってきたのって石焼き芋？"
+  },
+  {
+    "ID": "QUESTION2_036",
+    "mergedcorpus": "QUESTION2_036:あなたのお父さんは殺し屋？",
+    "MYCOEIROINK_corpus": "あなたのお父さんは殺し屋？"
+  },
+  {
+    "ID": "QUESTION2_037",
+    "mergedcorpus": "QUESTION2_037:層が重なってるのがミルフィーユ？",
+    "MYCOEIROINK_corpus": "層が重なってるのがミルフィーユ？"
+  },
+  {
+    "ID": "QUESTION2_038",
+    "mergedcorpus": "QUESTION2_038:救急車なら通り過ぎたよ？",
+    "MYCOEIROINK_corpus": "救急車なら通り過ぎたよ？"
+  },
+  {
+    "ID": "QUESTION2_039",
+    "mergedcorpus": "QUESTION2_039:ミュシャをご存知かしら？",
+    "MYCOEIROINK_corpus": "ミュシャをご存知かしら？"
+  },
+  {
+    "ID": "QUESTION2_040",
+    "mergedcorpus": "QUESTION2_040:マジックしたり、ジャグリングしたり？",
+    "MYCOEIROINK_corpus": "マジックしたり、ジャグリングしたり？"
+  },
+  {
+    "ID": "QUESTION2_041",
+    "mergedcorpus": "QUESTION2_041:料理当番代わってくれる？",
+    "MYCOEIROINK_corpus": "料理当番代わってくれる？"
+  },
+  {
+    "ID": "QUESTION2_042",
+    "mergedcorpus": "QUESTION2_042:この写真に写ってるのは誰？",
+    "MYCOEIROINK_corpus": "この写真に写ってるのは誰？"
+  },
+  {
+    "ID": "QUESTION2_043",
+    "mergedcorpus": "QUESTION2_043:オが切れたのは堪忍袋？",
+    "MYCOEIROINK_corpus": "オが切れたのは堪忍袋？"
+  },
+  {
+    "ID": "QUESTION2_044",
+    "mergedcorpus": "QUESTION2_044:バ美肉ですわ？",
+    "MYCOEIROINK_corpus": "バ美肉ですわ？"
+  },
+  {
+    "ID": "QUESTION2_045",
+    "mergedcorpus": "QUESTION2_045:するってーと、何を？",
+    "MYCOEIROINK_corpus": "するってーと、何を？"
+  },
+  {
+    "ID": "QUESTION2_046",
+    "mergedcorpus": "QUESTION2_046:ぬいぐるみ、とってくれません？",
+    "MYCOEIROINK_corpus": "ぬいぐるみ、とってくれません？"
+  },
+  {
+    "ID": "QUESTION2_047",
+    "mergedcorpus": "QUESTION2_047:軽く遊んでやっただけだが？",
+    "MYCOEIROINK_corpus": "軽く遊んでやっただけだが？"
+  },
+  {
+    "ID": "QUESTION2_048",
+    "mergedcorpus": "QUESTION2_048:えーっと、アリバイがないのは午後六時過ぎ？",
+    "MYCOEIROINK_corpus": "えーっと、アリバイがないのは午後六時過ぎ？"
+  },
+  {
+    "ID": "QUESTION2_049",
+    "mergedcorpus": "QUESTION2_049:もしかすると、カンニング？",
+    "MYCOEIROINK_corpus": "もしかすると、カンニング？"
+  },
+  {
+    "ID": "QUESTION2_050",
+    "mergedcorpus": "QUESTION2_050:好きな揚げ物はタツタ揚げ？",
+    "MYCOEIROINK_corpus": "好きな揚げ物はタツタ揚げ？"
+  },
+  {
+    "ID": "QUESTION2_051",
+    "mergedcorpus": "QUESTION2_051:わたしがきのう会ったあの子と双子？",
+    "MYCOEIROINK_corpus": "わたしがきのう会ったあの子と双子？"
+  },
+  {
+    "ID": "QUESTION2_052",
+    "mergedcorpus": "QUESTION2_052:星座占いをしよう、あなたはなに座？",
+    "MYCOEIROINK_corpus": "星座占いをしよう、あなたはなに座？"
+  },
+  {
+    "ID": "QUESTION2_053",
+    "mergedcorpus": "QUESTION2_053:被害者が殺されたのは何時？",
+    "MYCOEIROINK_corpus": "被害者が殺されたのは何時？"
+  },
+  {
+    "ID": "QUESTION2_054",
+    "mergedcorpus": "QUESTION2_054:フュージョンしようず？",
+    "MYCOEIROINK_corpus": "フュージョンしようず？"
+  },
+  {
+    "ID": "QUESTION2_055",
+    "mergedcorpus": "QUESTION2_055:残り短い命なんだぜ？",
+    "MYCOEIROINK_corpus": "残り短い命なんだぜ？"
+  },
+  {
+    "ID": "QUESTION2_056",
+    "mergedcorpus": "QUESTION2_056:あの子はかの有名な天才幼女だぞ？",
+    "MYCOEIROINK_corpus": "あの子はかの有名な天才幼女だぞ？"
+  },
+  {
+    "ID": "QUESTION2_057",
+    "mergedcorpus": "QUESTION2_057:僕の声が聞こえているのだ？",
+    "MYCOEIROINK_corpus": "僕の声が聞こえているのだ？"
+  },
+  {
+    "ID": "QUESTION2_058",
+    "mergedcorpus": "QUESTION2_058:わたくしのことを覚えておいで？",
+    "MYCOEIROINK_corpus": "わたくしのことを覚えておいで？"
+  },
+  {
+    "ID": "QUESTION2_059",
+    "mergedcorpus": "QUESTION2_059:彼女の妹はまだ小学生のはずだけど？",
+    "MYCOEIROINK_corpus": "彼女の妹はまだ小学生のはずだけど？"
+  },
+  {
+    "ID": "QUESTION2_060",
+    "mergedcorpus": "QUESTION2_060:ここまでは進めたけど、このあとどうすれば？",
+    "MYCOEIROINK_corpus": "ここまでは進めたけど、このあとどうすれば？"
+  },
+  {
+    "ID": "QUESTION2_061",
+    "mergedcorpus": "QUESTION2_061:楽しみにしてるアニメは何曜日？",
+    "MYCOEIROINK_corpus": "楽しみにしてるアニメは何曜日？"
+  },
+  {
+    "ID": "QUESTION2_062",
+    "mergedcorpus": "QUESTION2_062:入るとこもう決めてるって、なに部？",
+    "MYCOEIROINK_corpus": "入るとこもう決めてるって、なに部？"
+  },
+  {
+    "ID": "QUESTION2_063",
+    "mergedcorpus": "QUESTION2_063:そのデータ、どこ調べ？",
+    "MYCOEIROINK_corpus": "そのデータ、どこ調べ？"
+  },
+  {
+    "ID": "QUESTION2_064",
+    "mergedcorpus": "QUESTION2_064:さっきからあの子が隠してるの、通信簿？",
+    "MYCOEIROINK_corpus": "さっきからあの子が隠してるの、通信簿？"
+  },
+  {
+    "ID": "QUESTION2_065",
+    "mergedcorpus": "QUESTION2_065:旅行に行く計画だ、ヨーロッパ？",
+    "MYCOEIROINK_corpus": "旅行に行く計画だ、ヨーロッパ？"
+  },
+  {
+    "ID": "QUESTION2_066",
+    "mergedcorpus": "QUESTION2_066:どちらのクルマがより低燃費？",
+    "MYCOEIROINK_corpus": "どちらのクルマがより低燃費？"
+  },
+  {
+    "ID": "QUESTION2_067",
+    "mergedcorpus": "QUESTION2_067:買ったのはお揃いのティーカップ？",
+    "MYCOEIROINK_corpus": "買ったのはお揃いのティーカップ？"
+  },
+  {
+    "ID": "QUESTION2_068",
+    "mergedcorpus": "QUESTION2_068:ニャーニャーってオノマトペ？",
+    "MYCOEIROINK_corpus": "ニャーニャーってオノマトペ？"
+  },
+  {
+    "ID": "QUESTION2_069",
+    "mergedcorpus": "QUESTION2_069:やっぱり、鍋の具材はきりたんぽ？",
+    "MYCOEIROINK_corpus": "やっぱり、鍋の具材はきりたんぽ？"
+  },
+  {
+    "ID": "QUESTION2_070",
+    "mergedcorpus": "QUESTION2_070:お兄ちゃんたちと遊びたいなら、早く宿題しなきゃ？",
+    "MYCOEIROINK_corpus": "お兄ちゃんたちと遊びたいなら、早く宿題しなきゃ？"
+  },
+  {
+    "ID": "QUESTION2_071",
+    "mergedcorpus": "QUESTION2_071:今日のバイトって、カテキョ？",
+    "MYCOEIROINK_corpus": "今日のバイトって、カテキョ？"
+  },
+  {
+    "ID": "QUESTION2_072",
+    "mergedcorpus": "QUESTION2_072:今通ったのって消防車？",
+    "MYCOEIROINK_corpus": "今通ったのって消防車？"
+  },
+  {
+    "ID": "QUESTION2_073",
+    "mergedcorpus": "QUESTION2_073:研究に必要なサンプルの採取？",
+    "MYCOEIROINK_corpus": "研究に必要なサンプルの採取？"
+  },
+  {
+    "ID": "QUESTION2_074",
+    "mergedcorpus": "QUESTION2_074:例の映画、スリーディーで見たんでしょ？",
+    "MYCOEIROINK_corpus": "例の映画、スリーディーで見たんでしょ？"
+  },
+  {
+    "ID": "QUESTION2_075",
+    "mergedcorpus": "QUESTION2_075:宇治で栽培されていないのに、宇治抹茶？",
+    "MYCOEIROINK_corpus": "宇治で栽培されていないのに、宇治抹茶？"
+  },
+  {
+    "ID": "QUESTION2_076",
+    "mergedcorpus": "QUESTION2_076:空中都市のマチュピチュ？",
+    "MYCOEIROINK_corpus": "空中都市のマチュピチュ？"
+  },
+  {
+    "ID": "QUESTION2_077",
+    "mergedcorpus": "QUESTION2_077:あの有名な魔導書の原著？",
+    "MYCOEIROINK_corpus": "あの有名な魔導書の原著？"
+  },
+  {
+    "ID": "QUESTION2_078",
+    "mergedcorpus": "QUESTION2_078:どうしてこんなにふにゃふにゃ？",
+    "MYCOEIROINK_corpus": "どうしてこんなにふにゃふにゃ？"
+  },
+  {
+    "ID": "QUESTION2_079",
+    "mergedcorpus": "QUESTION2_079:フランスの哲学者、モンテーニュ？",
+    "MYCOEIROINK_corpus": "フランスの哲学者、モンテーニュ？"
+  },
+  {
+    "ID": "QUESTION2_080",
+    "mergedcorpus": "QUESTION2_080:誰でもって、本当に老若男女？",
+    "MYCOEIROINK_corpus": "誰でもって、本当に老若男女？"
+  },
+  {
+    "ID": "QUESTION2_081",
+    "mergedcorpus": "QUESTION2_081:これが、感動したって言ってたコミュ？",
+    "MYCOEIROINK_corpus": "これが、感動したって言ってたコミュ？"
+  },
+  {
+    "ID": "QUESTION2_082",
+    "mergedcorpus": "QUESTION2_082:やってらんねえよなあ、そりゃ？",
+    "MYCOEIROINK_corpus": "やってらんねえよなあ、そりゃ？"
+  },
+  {
+    "ID": "QUESTION2_083",
+    "mergedcorpus": "QUESTION2_083:いまさら僕に遠慮？",
+    "MYCOEIROINK_corpus": "いまさら僕に遠慮？"
+  },
+  {
+    "ID": "QUESTION2_084",
+    "mergedcorpus": "QUESTION2_084:老後の夢は全国行脚？",
+    "MYCOEIROINK_corpus": "老後の夢は全国行脚？"
+  },
+  {
+    "ID": "QUESTION2_085",
+    "mergedcorpus": "QUESTION2_085:サンマもカツオも、回遊魚？",
+    "MYCOEIROINK_corpus": "サンマもカツオも、回遊魚？"
+  },
+  {
+    "ID": "QUESTION2_086",
+    "mergedcorpus": "QUESTION2_086:さっきの暗号、こういう意味なんじゃ？",
+    "MYCOEIROINK_corpus": "さっきの暗号、こういう意味なんじゃ？"
+  },
+  {
+    "ID": "QUESTION2_087",
+    "mergedcorpus": "QUESTION2_087:いま作ってるのが、卒業式のためのコサージュ？",
+    "MYCOEIROINK_corpus": "いま作ってるのが、卒業式のためのコサージュ？"
+  },
+  {
+    "ID": "QUESTION2_088",
+    "mergedcorpus": "QUESTION2_088:ここは野菜のムジンハンバイジョ？",
+    "MYCOEIROINK_corpus": "ここは野菜のムジンハンバイジョ？"
+  },
+  {
+    "ID": "QUESTION2_089",
+    "mergedcorpus": "QUESTION2_089:この景色、またデジャビュ？",
+    "MYCOEIROINK_corpus": "この景色、またデジャビュ？"
+  },
+  {
+    "ID": "QUESTION2_090",
+    "mergedcorpus": "QUESTION2_090:この人たちが集まってくれたボランティア？",
+    "MYCOEIROINK_corpus": "この人たちが集まってくれたボランティア？"
+  },
+  {
+    "ID": "QUESTION2_091",
+    "mergedcorpus": "QUESTION2_091:それ、悲しくならない？",
+    "MYCOEIROINK_corpus": "それ、悲しくならない？"
+  },
+  {
+    "ID": "QUESTION2_092",
+    "mergedcorpus": "QUESTION2_092:わらわに逆らおうというのかえ？",
+    "MYCOEIROINK_corpus": "わらわに逆らおうというのかえ？"
+  },
+  {
+    "ID": "QUESTION2_093",
+    "mergedcorpus": "QUESTION2_093:拙者にその秘訣を教えてはいただけぬか？",
+    "MYCOEIROINK_corpus": "拙者にその秘訣を教えてはいただけぬか？"
+  },
+  {
+    "ID": "QUESTION2_094",
+    "mergedcorpus": "QUESTION2_094:この仕事、今日まででいけそ？",
+    "MYCOEIROINK_corpus": "この仕事、今日まででいけそ？"
+  },
+  {
+    "ID": "QUESTION2_095",
+    "mergedcorpus": "QUESTION2_095:これがあなたの望んだ結末？",
+    "MYCOEIROINK_corpus": "これがあなたの望んだ結末？"
+  },
+  {
+    "ID": "QUESTION2_096",
+    "mergedcorpus": "QUESTION2_096:どちらからいらして？",
+    "MYCOEIROINK_corpus": "どちらからいらして？"
+  },
+  {
+    "ID": "QUESTION2_097",
+    "mergedcorpus": "QUESTION2_097:今、何問目？",
+    "MYCOEIROINK_corpus": "今、何問目？"
+  },
+  {
+    "ID": "QUESTION2_098",
+    "mergedcorpus": "QUESTION2_098:もしかして、隠し扉？",
+    "MYCOEIROINK_corpus": "もしかして、隠し扉？"
+  },
+  {
+    "ID": "QUESTION2_099",
+    "mergedcorpus": "QUESTION2_099:グミが歯に挟まってるってマジ？",
+    "MYCOEIROINK_corpus": "グミが歯に挟まってるってマジ？"
+  },
+  {
+    "ID": "QUESTION2_100",
+    "mergedcorpus": "QUESTION2_100:親方、もうすぐ時間ですぜ？",
+    "MYCOEIROINK_corpus": "親方、もうすぐ時間ですぜ？"
+  },
+  {
+    "ID": "QUESTION2_101",
+    "mergedcorpus": "QUESTION2_101:お嬢様、おたわむれが過ぎますぞ？",
+    "MYCOEIROINK_corpus": "お嬢様、おたわむれが過ぎますぞ？"
+  },
+  {
+    "ID": "QUESTION2_102",
+    "mergedcorpus": "QUESTION2_102:この中のどれが禁止ワード？",
+    "MYCOEIROINK_corpus": "この中のどれが禁止ワード？"
+  },
+  {
+    "ID": "QUESTION2_103",
+    "mergedcorpus": "QUESTION2_103:にゃんこになっちゃうアイテムなのにゃ？",
+    "MYCOEIROINK_corpus": "にゃんこになっちゃうアイテムなのにゃ？"
+  },
+  {
+    "ID": "QUESTION2_104",
+    "mergedcorpus": "QUESTION2_104:小娘がわらわになんの用じゃ？",
+    "MYCOEIROINK_corpus": "小娘がわらわになんの用じゃ？"
+  },
+  {
+    "ID": "QUESTION2_105",
+    "mergedcorpus": "QUESTION2_105:雰囲気のいいお店だね？",
+    "MYCOEIROINK_corpus": "雰囲気のいいお店だね？"
+  },
+  {
+    "ID": "QUESTION_001",
+    "mergedcorpus": "QUESTION_001:何してるの？",
+    "MYCOEIROINK_corpus": "何してるの？"
+  },
+  {
+    "ID": "QUESTION_002",
+    "mergedcorpus": "QUESTION_002:おいくつですか？",
+    "MYCOEIROINK_corpus": "おいくつですか？"
+  },
+  {
+    "ID": "QUESTION_003",
+    "mergedcorpus": "QUESTION_003:そういえば、今、何時ですか？",
+    "MYCOEIROINK_corpus": "そういえば、今、何時ですか？"
+  },
+  {
+    "ID": "QUESTION_004",
+    "mergedcorpus": "QUESTION_004:逆になんでそう思ったんです？",
+    "MYCOEIROINK_corpus": "逆になんでそう思ったんです？"
+  },
+  {
+    "ID": "QUESTION_005",
+    "mergedcorpus": "QUESTION_005:こら、わがまま言うなら置いてっちゃうよ？",
+    "MYCOEIROINK_corpus": "こら、わがまま言うなら置いてっちゃうよ？"
+  },
+  {
+    "ID": "QUESTION_006",
+    "mergedcorpus": "QUESTION_006:おかしをくれなきゃイタズラしちゃうぞ？",
+    "MYCOEIROINK_corpus": "おかしをくれなきゃイタズラしちゃうぞ？"
+  },
+  {
+    "ID": "QUESTION_007",
+    "mergedcorpus": "QUESTION_007:高いところに行くけど、大丈夫そう？",
+    "MYCOEIROINK_corpus": "高いところに行くけど、大丈夫そう？"
+  },
+  {
+    "ID": "QUESTION_008",
+    "mergedcorpus": "QUESTION_008:いいかげんにして？",
+    "MYCOEIROINK_corpus": "いいかげんにして？"
+  },
+  {
+    "ID": "QUESTION_009",
+    "mergedcorpus": "QUESTION_009:犬と猫、どっち派？",
+    "MYCOEIROINK_corpus": "犬と猫、どっち派？"
+  },
+  {
+    "ID": "QUESTION_010",
+    "mergedcorpus": "QUESTION_010:虚無感に襲われてます？",
+    "MYCOEIROINK_corpus": "虚無感に襲われてます？"
+  },
+  {
+    "ID": "QUESTION_011",
+    "mergedcorpus": "QUESTION_011:それは言わない約束だったよな？",
+    "MYCOEIROINK_corpus": "それは言わない約束だったよな？"
+  },
+  {
+    "ID": "QUESTION_012",
+    "mergedcorpus": "QUESTION_012:いつまで駄々こねてるつもり？",
+    "MYCOEIROINK_corpus": "いつまで駄々こねてるつもり？"
+  },
+  {
+    "ID": "QUESTION_013",
+    "mergedcorpus": "QUESTION_013:力こそパワーってこと？",
+    "MYCOEIROINK_corpus": "力こそパワーってこと？"
+  },
+  {
+    "ID": "QUESTION_014",
+    "mergedcorpus": "QUESTION_014:コソコソ練習してたんです？",
+    "MYCOEIROINK_corpus": "コソコソ練習してたんです？"
+  },
+  {
+    "ID": "QUESTION_015",
+    "mergedcorpus": "QUESTION_015:なんでそんなに慌ててるの？",
+    "MYCOEIROINK_corpus": "なんでそんなに慌ててるの？"
+  },
+  {
+    "ID": "QUESTION_016",
+    "mergedcorpus": "QUESTION_016:それ、誰が言ってた？",
+    "MYCOEIROINK_corpus": "それ、誰が言ってた？"
+  },
+  {
+    "ID": "QUESTION_017",
+    "mergedcorpus": "QUESTION_017:すいません、そこ少し巻き戻してくれます？",
+    "MYCOEIROINK_corpus": "すいません、そこ少し巻き戻してくれます？"
+  },
+  {
+    "ID": "QUESTION_018",
+    "mergedcorpus": "QUESTION_018:だから言ったでしょう？",
+    "MYCOEIROINK_corpus": "だから言ったでしょう？"
+  },
+  {
+    "ID": "QUESTION_019",
+    "mergedcorpus": "QUESTION_019:にゃんことわんこ、どっちです？",
+    "MYCOEIROINK_corpus": "にゃんことわんこ、どっちです？"
+  },
+  {
+    "ID": "QUESTION_020",
+    "mergedcorpus": "QUESTION_020:今なにしてる？",
+    "MYCOEIROINK_corpus": "今なにしてる？"
+  },
+  {
+    "ID": "QUESTION_021",
+    "mergedcorpus": "QUESTION_021:その女、誰？",
+    "MYCOEIROINK_corpus": "その女、誰？"
+  },
+  {
+    "ID": "QUESTION_022",
+    "mergedcorpus": "QUESTION_022:言い訳するんだ？",
+    "MYCOEIROINK_corpus": "言い訳するんだ？"
+  },
+  {
+    "ID": "QUESTION_023",
+    "mergedcorpus": "QUESTION_023:ウィンウィンの関係をきずこうじゃないか？",
+    "MYCOEIROINK_corpus": "ウィンウィンの関係をきずこうじゃないか？"
+  },
+  {
+    "ID": "QUESTION_024",
+    "mergedcorpus": "QUESTION_024:もしかして、友達いないんじゃ？",
+    "MYCOEIROINK_corpus": "もしかして、友達いないんじゃ？"
+  },
+  {
+    "ID": "QUESTION_025",
+    "mergedcorpus": "QUESTION_025:こんなところ、さっさと逃げよう？",
+    "MYCOEIROINK_corpus": "こんなところ、さっさと逃げよう？"
+  },
+  {
+    "ID": "QUESTION_026",
+    "mergedcorpus": "QUESTION_026:餃子を焼いてるんです？",
+    "MYCOEIROINK_corpus": "餃子を焼いてるんです？"
+  },
+  {
+    "ID": "QUESTION_027",
+    "mergedcorpus": "QUESTION_027:除菌ウェットティッシュは持ち歩いてる？",
+    "MYCOEIROINK_corpus": "除菌ウェットティッシュは持ち歩いてる？"
+  },
+  {
+    "ID": "QUESTION_028",
+    "mergedcorpus": "QUESTION_028:料理のできるスタジオを借りたいよね？",
+    "MYCOEIROINK_corpus": "料理のできるスタジオを借りたいよね？"
+  },
+  {
+    "ID": "QUESTION_029",
+    "mergedcorpus": "QUESTION_029:龍の伝説があるんだっけ？",
+    "MYCOEIROINK_corpus": "龍の伝説があるんだっけ？"
+  },
+  {
+    "ID": "QUESTION_030",
+    "mergedcorpus": "QUESTION_030:ここはどこ？",
+    "MYCOEIROINK_corpus": "ここはどこ？"
+  },
+  {
+    "ID": "QUESTION_031",
+    "mergedcorpus": "QUESTION_031:というか、あなたは誰？",
+    "MYCOEIROINK_corpus": "というか、あなたは誰？"
+  },
+  {
+    "ID": "QUESTION_032",
+    "mergedcorpus": "QUESTION_032:眠いならもうちょっと寝てな？",
+    "MYCOEIROINK_corpus": "眠いならもうちょっと寝てな？"
+  },
+  {
+    "ID": "QUESTION_033",
+    "mergedcorpus": "QUESTION_033:略称しか覚えてないの？",
+    "MYCOEIROINK_corpus": "略称しか覚えてないの？"
+  },
+  {
+    "ID": "QUESTION_034",
+    "mergedcorpus": "QUESTION_034:ぴょんぴょん跳ねるアイコンは、どう設定するんです？",
+    "MYCOEIROINK_corpus": "ぴょんぴょん跳ねるアイコンは、どう設定するんです？"
+  },
+  {
+    "ID": "QUESTION_035",
+    "mergedcorpus": "QUESTION_035:フォーマットはエムピーフォーで大丈夫？",
+    "MYCOEIROINK_corpus": "フォーマットはエムピーフォーで大丈夫？"
+  },
+  {
+    "ID": "QUESTION_036",
+    "mergedcorpus": "QUESTION_036:収録、まだ終わらなそう？",
+    "MYCOEIROINK_corpus": "収録、まだ終わらなそう？"
+  },
+  {
+    "ID": "QUESTION_037",
+    "mergedcorpus": "QUESTION_037:変換してもらっていいですか？",
+    "MYCOEIROINK_corpus": "変換してもらっていいですか？"
+  },
+  {
+    "ID": "QUESTION_038",
+    "mergedcorpus": "QUESTION_038:やべ、今なんか聞こえた？",
+    "MYCOEIROINK_corpus": "やべ、今なんか聞こえた？"
+  },
+  {
+    "ID": "QUESTION_039",
+    "mergedcorpus": "QUESTION_039:可愛くなりたい？",
+    "MYCOEIROINK_corpus": "可愛くなりたい？"
+  },
+  {
+    "ID": "QUESTION_040",
+    "mergedcorpus": "QUESTION_040:ウィッグのサイズはどう？",
+    "MYCOEIROINK_corpus": "ウィッグのサイズはどう？"
+  },
+  {
+    "ID": "QUESTION_041",
+    "mergedcorpus": "QUESTION_041:ビジネスチャンスをのがすわけにいかないですよね？",
+    "MYCOEIROINK_corpus": "ビジネスチャンスをのがすわけにいかないですよね？"
+  },
+  {
+    "ID": "QUESTION_042",
+    "mergedcorpus": "QUESTION_042:チャットの流れ、早くない？",
+    "MYCOEIROINK_corpus": "チャットの流れ、早くない？"
+  },
+  {
+    "ID": "QUESTION_043",
+    "mergedcorpus": "QUESTION_043:まなちゃん、ちゃんと宿題は終わった？",
+    "MYCOEIROINK_corpus": "まなちゃん、ちゃんと宿題は終わった？"
+  },
+  {
+    "ID": "QUESTION_044",
+    "mergedcorpus": "QUESTION_044:遅刻組は新幹線で紀州に向かえばいいのかな？",
+    "MYCOEIROINK_corpus": "遅刻組は新幹線で紀州に向かえばいいのかな？"
+  },
+  {
+    "ID": "RECITATION324_001",
+    "mergedcorpus": "RECITATION324_001:女の子がキッキッ嬉しそう。",
+    "MYCOEIROINK_corpus": "女の子がキッキッ嬉しそう。"
+  },
+  {
+    "ID": "RECITATION324_002",
+    "mergedcorpus": "RECITATION324_002:ツァツォに旅行した。",
+    "MYCOEIROINK_corpus": "ツァツォに旅行した。"
+  },
+  {
+    "ID": "RECITATION324_003",
+    "mergedcorpus": "RECITATION324_003:民衆がテュルリーキュウデンに侵入した。",
+    "MYCOEIROINK_corpus": "民衆がテュルリーキュウデンに侵入した。"
+  },
+  {
+    "ID": "RECITATION324_004",
+    "mergedcorpus": "RECITATION324_004:ハイチ共和国でトゥーサンルーヴェルテュールが勝利を収められたのは、実際黄熱病のおかげだった。",
+    "MYCOEIROINK_corpus": "ハイチ共和国でトゥーサンルーヴェルテュールが勝利を収められたのは、実際黄熱病のおかげだった。"
+  },
+  {
+    "ID": "RECITATION324_005",
+    "mergedcorpus": "RECITATION324_005:レジャンドルは民衆をテュルリーキュウデンに招いた。",
+    "MYCOEIROINK_corpus": "レジャンドルは民衆をテュルリーキュウデンに招いた。"
+  },
+  {
+    "ID": "RECITATION324_006",
+    "mergedcorpus": "RECITATION324_006:助言はできないとデュパンは言った。",
+    "MYCOEIROINK_corpus": "助言はできないとデュパンは言った。"
+  },
+  {
+    "ID": "RECITATION324_007",
+    "mergedcorpus": "RECITATION324_007:フランス人シェフとニホンジンシェフは全然違う。",
+    "MYCOEIROINK_corpus": "フランス人シェフとニホンジンシェフは全然違う。"
+  },
+  {
+    "ID": "RECITATION324_008",
+    "mergedcorpus": "RECITATION324_008:中国の外交団にアタッシェとして派遣された。",
+    "MYCOEIROINK_corpus": "中国の外交団にアタッシェとして派遣された。"
+  },
+  {
+    "ID": "RECITATION324_009",
+    "mergedcorpus": "RECITATION324_009:ファシズム勢力とのソーリョクセンに臨む。",
+    "MYCOEIROINK_corpus": "ファシズム勢力とのソーリョクセンに臨む。"
+  },
+  {
+    "ID": "RECITATION324_010",
+    "mergedcorpus": "RECITATION324_010:家具商人のフィシェルは、荷車と仔馬を貸してくれた。",
+    "MYCOEIROINK_corpus": "家具商人のフィシェルは、荷車と仔馬を貸してくれた。"
+  },
+  {
+    "ID": "RECITATION324_011",
+    "mergedcorpus": "RECITATION324_011:ローカル路線にはファンも多い。",
+    "MYCOEIROINK_corpus": "ローカル路線にはファンも多い。"
+  },
+  {
+    "ID": "RECITATION324_012",
+    "mergedcorpus": "RECITATION324_012:フェイントで相手をかわしてからシュートでフィニッシュした。",
+    "MYCOEIROINK_corpus": "フェイントで相手をかわしてからシュートでフィニッシュした。"
+  },
+  {
+    "ID": "RECITATION324_013",
+    "mergedcorpus": "RECITATION324_013:1877、プフェファーにより浸透現象が発見された。",
+    "MYCOEIROINK_corpus": "1877、プフェファーにより浸透現象が発見された。"
+  },
+  {
+    "ID": "RECITATION324_014",
+    "mergedcorpus": "RECITATION324_014:揺れるフェリーに乗るのは私にとって苦行です。",
+    "MYCOEIROINK_corpus": "揺れるフェリーに乗るのは私にとって苦行です。"
+  },
+  {
+    "ID": "RECITATION324_015",
+    "mergedcorpus": "RECITATION324_015:ホルロアラティタルッフォという特別なお料理も出ました。",
+    "MYCOEIROINK_corpus": "ホルロアラティタルッフォという特別なお料理も出ました。"
+  },
+  {
+    "ID": "RECITATION324_016",
+    "mergedcorpus": "RECITATION324_016:笛の音がなるとウサギのキッドが早速ぴょんと跳ねた。",
+    "MYCOEIROINK_corpus": "笛の音がなるとウサギのキッドが早速ぴょんと跳ねた。"
+  },
+  {
+    "ID": "RECITATION324_017",
+    "mergedcorpus": "RECITATION324_017:あのリョキャクは噂のキャフェに行くようです。",
+    "MYCOEIROINK_corpus": "あのリョキャクは噂のキャフェに行くようです。"
+  },
+  {
+    "ID": "RECITATION324_018",
+    "mergedcorpus": "RECITATION324_018:目標は一等賞です。",
+    "MYCOEIROINK_corpus": "目標は一等賞です。"
+  },
+  {
+    "ID": "RECITATION324_019",
+    "mergedcorpus": "RECITATION324_019:ウサギのキッドは気分よくピョン、またピョンと飛び続けた。",
+    "MYCOEIROINK_corpus": "ウサギのキッドは気分よくピョン、またピョンと飛び続けた。"
+  },
+  {
+    "ID": "RECITATION324_020",
+    "mergedcorpus": "RECITATION324_020:アフタヌーンティーを楽しみましょう。",
+    "MYCOEIROINK_corpus": "アフタヌーンティーを楽しみましょう。"
+  },
+  {
+    "ID": "RECITATION324_021",
+    "mergedcorpus": "RECITATION324_021:彼女はティピカルなフェミニストです。",
+    "MYCOEIROINK_corpus": "彼女はティピカルなフェミニストです。"
+  },
+  {
+    "ID": "RECITATION324_022",
+    "mergedcorpus": "RECITATION324_022:助手たちとミッツィは探している書類を見つけられなかった。",
+    "MYCOEIROINK_corpus": "助手たちとミッツィは探している書類を見つけられなかった。"
+  },
+  {
+    "ID": "RECITATION324_023",
+    "mergedcorpus": "RECITATION324_023:フィレンツェ、パドヴァ、ヴェネツィアはどれもイタリアの都市です。",
+    "MYCOEIROINK_corpus": "フィレンツェ、パドヴァ、ヴェネツィアはどれもイタリアの都市です。"
+  },
+  {
+    "ID": "RECITATION324_024",
+    "mergedcorpus": "RECITATION324_024:楽譜に次のように書いてあるのが、エーフェリチェです。",
+    "MYCOEIROINK_corpus": "楽譜に次のように書いてあるのが、エーフェリチェです。"
+  },
+  {
+    "ID": "RECITATION324_025",
+    "mergedcorpus": "RECITATION324_025:ショペンハウエルとニーチェの哲学書を本棚から取り出した。",
+    "MYCOEIROINK_corpus": "ショペンハウエルとニーチェの哲学書を本棚から取り出した。"
+  },
+  {
+    "ID": "RECITATION324_026",
+    "mergedcorpus": "RECITATION324_026:早速召使い全員に知らせましょう。",
+    "MYCOEIROINK_corpus": "早速召使い全員に知らせましょう。"
+  },
+  {
+    "ID": "RECITATION324_027",
+    "mergedcorpus": "RECITATION324_027:重い綿入を脱いで、あわせに着替える。",
+    "MYCOEIROINK_corpus": "重い綿入を脱いで、あわせに着替える。"
+  },
+  {
+    "ID": "RECITATION324_028",
+    "mergedcorpus": "RECITATION324_028:ボストンで、とあるチョプスイ屋へ入って夕飯を食った。",
+    "MYCOEIROINK_corpus": "ボストンで、とあるチョプスイ屋へ入って夕飯を食った。"
+  },
+  {
+    "ID": "RECITATION324_029",
+    "mergedcorpus": "RECITATION324_029:ろくすっぽ休憩をとらず働いた。",
+    "MYCOEIROINK_corpus": "ろくすっぽ休憩をとらず働いた。"
+  },
+  {
+    "ID": "RECITATION324_030",
+    "mergedcorpus": "RECITATION324_030:かつて一人で国府に侵入した。",
+    "MYCOEIROINK_corpus": "かつて一人で国府に侵入した。"
+  },
+  {
+    "ID": "RECITATION324_031",
+    "mergedcorpus": "RECITATION324_031:だが、今日お前がここへゴジュライになったのは、どんなご用なのかな？",
+    "MYCOEIROINK_corpus": "だが、今日お前がここへゴジュライになったのは、どんなご用なのかな？"
+  },
+  {
+    "ID": "RECITATION324_032",
+    "mergedcorpus": "RECITATION324_032:サブフランチャイザーを増やして目指せ百店舗。",
+    "MYCOEIROINK_corpus": "サブフランチャイザーを増やして目指せ百店舗。"
+  },
+  {
+    "ID": "RECITATION324_033",
+    "mergedcorpus": "RECITATION324_033:四国でお遍路を行脚しよう。",
+    "MYCOEIROINK_corpus": "四国でお遍路を行脚しよう。"
+  },
+  {
+    "ID": "RECITATION324_034",
+    "mergedcorpus": "RECITATION324_034:いつもの通りギャンギャン泣き出しました。",
+    "MYCOEIROINK_corpus": "いつもの通りギャンギャン泣き出しました。"
+  },
+  {
+    "ID": "RECITATION324_035",
+    "mergedcorpus": "RECITATION324_035:先生は、立ったままニュースを見ていました。",
+    "MYCOEIROINK_corpus": "先生は、立ったままニュースを見ていました。"
+  },
+  {
+    "ID": "RECITATION324_036",
+    "mergedcorpus": "RECITATION324_036:私はギョッと目を見開いた。",
+    "MYCOEIROINK_corpus": "私はギョッと目を見開いた。"
+  },
+  {
+    "ID": "RECITATION324_037",
+    "mergedcorpus": "RECITATION324_037:友達へニューイヤーカードを送ろう。",
+    "MYCOEIROINK_corpus": "友達へニューイヤーカードを送ろう。"
+  },
+  {
+    "ID": "RECITATION324_038",
+    "mergedcorpus": "RECITATION324_038:家政婦は休みにおしゃれなアウターウェアに身を包み一人で屋台を楽しみました。",
+    "MYCOEIROINK_corpus": "家政婦は休みにおしゃれなアウターウェアに身を包み一人で屋台を楽しみました。"
+  },
+  {
+    "ID": "RECITATION324_039",
+    "mergedcorpus": "RECITATION324_039:ウォッカのお供には塩漬けのきゅうりがあいます。",
+    "MYCOEIROINK_corpus": "ウォッカのお供には塩漬けのきゅうりがあいます。"
+  },
+  {
+    "ID": "RECITATION324_040",
+    "mergedcorpus": "RECITATION324_040:山の向こうのミュンヒェンの人たちが攻撃をしかけた。",
+    "MYCOEIROINK_corpus": "山の向こうのミュンヒェンの人たちが攻撃をしかけた。"
+  },
+  {
+    "ID": "RECITATION324_041",
+    "mergedcorpus": "RECITATION324_041:ボスニア国境からの攻撃により、十一月にヴァリェヴォが占領された。",
+    "MYCOEIROINK_corpus": "ボスニア国境からの攻撃により、十一月にヴァリェヴォが占領された。"
+  },
+  {
+    "ID": "RECITATION324_042",
+    "mergedcorpus": "RECITATION324_042:シルヴィウスはデュボアと呼ばれていたフランスのユグノーの家に生まれた。",
+    "MYCOEIROINK_corpus": "シルヴィウスはデュボアと呼ばれていたフランスのユグノーの家に生まれた。"
+  },
+  {
+    "ID": "RECITATION324_043",
+    "mergedcorpus": "RECITATION324_043:そのほかに私に出来ることはなかったのです、百合枝は涙声になった。",
+    "MYCOEIROINK_corpus": "そのほかに私に出来ることはなかったのです、百合枝は涙声になった。"
+  },
+  {
+    "ID": "RECITATION324_044",
+    "mergedcorpus": "RECITATION324_044:ガル博士百体近く。",
+    "MYCOEIROINK_corpus": "ガル博士百体近く。"
+  },
+  {
+    "ID": "RECITATION324_045",
+    "mergedcorpus": "RECITATION324_045:ニホン政府からの百兆円を超える予算要求。",
+    "MYCOEIROINK_corpus": "ニホン政府からの百兆円を超える予算要求。"
+  },
+  {
+    "ID": "RECITATION324_046",
+    "mergedcorpus": "RECITATION324_046:写経の美しさに私は仰天してしまった。",
+    "MYCOEIROINK_corpus": "写経の美しさに私は仰天してしまった。"
+  },
+  {
+    "ID": "RECITATION324_047",
+    "mergedcorpus": "RECITATION324_047:ソプラノ歌手ポリランダチョは歌劇アイーダの特別名歌手と評判です。",
+    "MYCOEIROINK_corpus": "ソプラノ歌手ポリランダチョは歌劇アイーダの特別名歌手と評判です。"
+  },
+  {
+    "ID": "RECITATION324_048",
+    "mergedcorpus": "RECITATION324_048:貴方には最初百ポンド渡します。",
+    "MYCOEIROINK_corpus": "貴方には最初百ポンド渡します。"
+  },
+  {
+    "ID": "RECITATION324_049",
+    "mergedcorpus": "RECITATION324_049:社長からの指示です。",
+    "MYCOEIROINK_corpus": "社長からの指示です。"
+  },
+  {
+    "ID": "RECITATION324_050",
+    "mergedcorpus": "RECITATION324_050:どうも気まぐれというものは多少メフィスティックなものであるらしい。",
+    "MYCOEIROINK_corpus": "どうも気まぐれというものは多少メフィスティックなものであるらしい。"
+  },
+  {
+    "ID": "RECITATION324_051",
+    "mergedcorpus": "RECITATION324_051:蛙がピョコピョコ飛び回っています。",
+    "MYCOEIROINK_corpus": "蛙がピョコピョコ飛び回っています。"
+  },
+  {
+    "ID": "RECITATION324_052",
+    "mergedcorpus": "RECITATION324_052:魔境に足を踏み入れる。",
+    "MYCOEIROINK_corpus": "魔境に足を踏み入れる。"
+  },
+  {
+    "ID": "RECITATION324_053",
+    "mergedcorpus": "RECITATION324_053:ヴァンダーヴォットタイム中は、いわゆるパーティーのようで晴れやかです。",
+    "MYCOEIROINK_corpus": "ヴァンダーヴォットタイム中は、いわゆるパーティーのようで晴れやかです。"
+  },
+  {
+    "ID": "RECITATION324_054",
+    "mergedcorpus": "RECITATION324_054:スピリッツとは蒸留酒の事です。",
+    "MYCOEIROINK_corpus": "スピリッツとは蒸留酒の事です。"
+  },
+  {
+    "ID": "RECITATION324_055",
+    "mergedcorpus": "RECITATION324_055:ヌルシアのベネディクトゥスはアポロン神殿を壊し、ベネディクト会の修道院を建てた。",
+    "MYCOEIROINK_corpus": "ヌルシアのベネディクトゥスはアポロン神殿を壊し、ベネディクト会の修道院を建てた。"
+  },
+  {
+    "ID": "RECITATION324_056",
+    "mergedcorpus": "RECITATION324_056:ちょうどそのとき、デストゥパーゴがコップをもって立ちあがりました。",
+    "MYCOEIROINK_corpus": "ちょうどそのとき、デストゥパーゴがコップをもって立ちあがりました。"
+  },
+  {
+    "ID": "RECITATION324_057",
+    "mergedcorpus": "RECITATION324_057:パフィーのグッズが残らず部屋に落ち着いた。",
+    "MYCOEIROINK_corpus": "パフィーのグッズが残らず部屋に落ち着いた。"
+  },
+  {
+    "ID": "RECITATION324_058",
+    "mergedcorpus": "RECITATION324_058:エピファーノフは財布を無くした。",
+    "MYCOEIROINK_corpus": "エピファーノフは財布を無くした。"
+  },
+  {
+    "ID": "RECITATION324_059",
+    "mergedcorpus": "RECITATION324_059:ポピュラーなソフトを使いセキュアな状態を復旧する。",
+    "MYCOEIROINK_corpus": "ポピュラーなソフトを使いセキュアな状態を復旧する。"
+  },
+  {
+    "ID": "RECITATION324_060",
+    "mergedcorpus": "RECITATION324_060:チョコの在庫あったかな？",
+    "MYCOEIROINK_corpus": "チョコの在庫あったかな？"
+  },
+  {
+    "ID": "RECITATION324_061",
+    "mergedcorpus": "RECITATION324_061:おめえ、この仕込みにゃあ、どのくれえ時間かかるか知ってっか。",
+    "MYCOEIROINK_corpus": "おめえ、この仕込みにゃあ、どのくれえ時間かかるか知ってっか。"
+  },
+  {
+    "ID": "RECITATION324_062",
+    "mergedcorpus": "RECITATION324_062:それに、このほうが体のためにゃずっといいんだからね。",
+    "MYCOEIROINK_corpus": "それに、このほうが体のためにゃずっといいんだからね。"
+  },
+  {
+    "ID": "RECITATION324_063",
+    "mergedcorpus": "RECITATION324_063:夏休みに、トラアヴェミュンへ旅行した。",
+    "MYCOEIROINK_corpus": "夏休みに、トラアヴェミュンへ旅行した。"
+  },
+  {
+    "ID": "RECITATION324_064",
+    "mergedcorpus": "RECITATION324_064:ここで一緒にウェイクフィールドの叔母を待った。",
+    "MYCOEIROINK_corpus": "ここで一緒にウェイクフィールドの叔母を待った。"
+  },
+  {
+    "ID": "RECITATION324_065",
+    "mergedcorpus": "RECITATION324_065:八つになるウォルターと一緒に出た兄弟がいたが、ウォルターだけ発見された。",
+    "MYCOEIROINK_corpus": "八つになるウォルターと一緒に出た兄弟がいたが、ウォルターだけ発見された。"
+  },
+  {
+    "ID": "RECITATION324_066",
+    "mergedcorpus": "RECITATION324_066:最初のジョブはウォーリアがいいと思います。",
+    "MYCOEIROINK_corpus": "最初のジョブはウォーリアがいいと思います。"
+  },
+  {
+    "ID": "RECITATION324_067",
+    "mergedcorpus": "RECITATION324_067:およそ六百メートル先を右折です。",
+    "MYCOEIROINK_corpus": "およそ六百メートル先を右折です。"
+  },
+  {
+    "ID": "RECITATION324_068",
+    "mergedcorpus": "RECITATION324_068:シンテンオープンのレセプションに沢山のお客さんを招待した。",
+    "MYCOEIROINK_corpus": "シンテンオープンのレセプションに沢山のお客さんを招待した。"
+  },
+  {
+    "ID": "RECITATION324_069",
+    "mergedcorpus": "RECITATION324_069:脚本作者ピエールオービュルナンの給仕クレマンが、主人の書斎の戸を大切そうに開いた。",
+    "MYCOEIROINK_corpus": "脚本作者ピエールオービュルナンの給仕クレマンが、主人の書斎の戸を大切そうに開いた。"
+  },
+  {
+    "ID": "RECITATION324_070",
+    "mergedcorpus": "RECITATION324_070:われわれは、天主教徒か長老教会派のもので、天主教徒が多数を占めている。",
+    "MYCOEIROINK_corpus": "われわれは、天主教徒か長老教会派のもので、天主教徒が多数を占めている。"
+  },
+  {
+    "ID": "RECITATION324_071",
+    "mergedcorpus": "RECITATION324_071:結局のところお互いゴジッポ百歩だ。",
+    "MYCOEIROINK_corpus": "結局のところお互いゴジッポ百歩だ。"
+  },
+  {
+    "ID": "RECITATION324_072",
+    "mergedcorpus": "RECITATION324_072:突拍子もない話だが、決して嘘ではない。",
+    "MYCOEIROINK_corpus": "突拍子もない話だが、決して嘘ではない。"
+  },
+  {
+    "ID": "RECITATION324_073",
+    "mergedcorpus": "RECITATION324_073:ネットで懸案の解決を目指す。",
+    "MYCOEIROINK_corpus": "ネットで懸案の解決を目指す。"
+  },
+  {
+    "ID": "RECITATION324_074",
+    "mergedcorpus": "RECITATION324_074:切れ味鋭いペティナイフは使い勝手が良い。",
+    "MYCOEIROINK_corpus": "切れ味鋭いペティナイフは使い勝手が良い。"
+  },
+  {
+    "ID": "RECITATION324_075",
+    "mergedcorpus": "RECITATION324_075:指をくわえてぴゅーとヒトコエ口笛を吹いた。",
+    "MYCOEIROINK_corpus": "指をくわえてぴゅーとヒトコエ口笛を吹いた。"
+  },
+  {
+    "ID": "RECITATION324_076",
+    "mergedcorpus": "RECITATION324_076:クレンペ教頭は無骨な男だが、自分の学問の秘密には深く浸っていた。",
+    "MYCOEIROINK_corpus": "クレンペ教頭は無骨な男だが、自分の学問の秘密には深く浸っていた。"
+  },
+  {
+    "ID": "RECITATION324_077",
+    "mergedcorpus": "RECITATION324_077:尻尾ふりたて、ひげくいそらす。",
+    "MYCOEIROINK_corpus": "尻尾ふりたて、ひげくいそらす。"
+  },
+  {
+    "ID": "RECITATION324_078",
+    "mergedcorpus": "RECITATION324_078:すべての獲物を望みどおりに狙う技術がある。",
+    "MYCOEIROINK_corpus": "すべての獲物を望みどおりに狙う技術がある。"
+  },
+  {
+    "ID": "RECITATION324_079",
+    "mergedcorpus": "RECITATION324_079:タコのグニャグニャした感触が嫌だ。",
+    "MYCOEIROINK_corpus": "タコのグニャグニャした感触が嫌だ。"
+  },
+  {
+    "ID": "RECITATION324_080",
+    "mergedcorpus": "RECITATION324_080:私たちは、抽象的意識的自己を否定することで、本当の自己とはシンジンイチニョだということを知る。",
+    "MYCOEIROINK_corpus": "私たちは、抽象的意識的自己を否定することで、本当の自己とはシンジンイチニョだということを知る。"
+  },
+  {
+    "ID": "RECITATION324_081",
+    "mergedcorpus": "RECITATION324_081:鹿島明神が釘で刺し貫いて、魚が動かないようにしている。",
+    "MYCOEIROINK_corpus": "鹿島明神が釘で刺し貫いて、魚が動かないようにしている。"
+  },
+  {
+    "ID": "RECITATION324_082",
+    "mergedcorpus": "RECITATION324_082:私は手始めに、同業者から話を聞く努力をした。",
+    "MYCOEIROINK_corpus": "私は手始めに、同業者から話を聞く努力をした。"
+  },
+  {
+    "ID": "RECITATION324_083",
+    "mergedcorpus": "RECITATION324_083:とてもうれしそうにぴょんぴょん跳ねて出ていった。",
+    "MYCOEIROINK_corpus": "とてもうれしそうにぴょんぴょん跳ねて出ていった。"
+  },
+  {
+    "ID": "RECITATION324_084",
+    "mergedcorpus": "RECITATION324_084:二分だけのオルガン演奏で終わってしまった。",
+    "MYCOEIROINK_corpus": "二分だけのオルガン演奏で終わってしまった。"
+  },
+  {
+    "ID": "RECITATION324_085",
+    "mergedcorpus": "RECITATION324_085:ニセ教会に騙されるな。",
+    "MYCOEIROINK_corpus": "ニセ教会に騙されるな。"
+  },
+  {
+    "ID": "RECITATION324_086",
+    "mergedcorpus": "RECITATION324_086:およそ百年前には、薬剤として薬屋で売っていた。",
+    "MYCOEIROINK_corpus": "およそ百年前には、薬剤として薬屋で売っていた。"
+  },
+  {
+    "ID": "RECITATION324_087",
+    "mergedcorpus": "RECITATION324_087:いっそ脚本家を目指した方がいいかとも考えた。",
+    "MYCOEIROINK_corpus": "いっそ脚本家を目指した方がいいかとも考えた。"
+  },
+  {
+    "ID": "RECITATION324_088",
+    "mergedcorpus": "RECITATION324_088:この書物に誤謬があっても、純一でない何ものにもインフェクトしないでしょう。",
+    "MYCOEIROINK_corpus": "この書物に誤謬があっても、純一でない何ものにもインフェクトしないでしょう。"
+  },
+  {
+    "ID": "RECITATION324_089",
+    "mergedcorpus": "RECITATION324_089:仏教はインド由来の宗教です。",
+    "MYCOEIROINK_corpus": "仏教はインド由来の宗教です。"
+  },
+  {
+    "ID": "RECITATION324_090",
+    "mergedcorpus": "RECITATION324_090:キャリーバッグは旅行に必須。",
+    "MYCOEIROINK_corpus": "キャリーバッグは旅行に必須。"
+  },
+  {
+    "ID": "RECITATION324_091",
+    "mergedcorpus": "RECITATION324_091:本番前はメチャメチャ不安になる。",
+    "MYCOEIROINK_corpus": "本番前はメチャメチャ不安になる。"
+  },
+  {
+    "ID": "RECITATION324_092",
+    "mergedcorpus": "RECITATION324_092:三角関数においてピュタゴラスの定理は必須です。",
+    "MYCOEIROINK_corpus": "三角関数においてピュタゴラスの定理は必須です。"
+  },
+  {
+    "ID": "RECITATION324_093",
+    "mergedcorpus": "RECITATION324_093:著名なラニョン博士が患者と接していた。",
+    "MYCOEIROINK_corpus": "著名なラニョン博士が患者と接していた。"
+  },
+  {
+    "ID": "RECITATION324_094",
+    "mergedcorpus": "RECITATION324_094:おもちゃの刀を持った少年が、オヒャクドイシに寄りかかっている。",
+    "MYCOEIROINK_corpus": "おもちゃの刀を持った少年が、オヒャクドイシに寄りかかっている。"
+  },
+  {
+    "ID": "RECITATION324_095",
+    "mergedcorpus": "RECITATION324_095:食料の補給が急務であると伝えられた。",
+    "MYCOEIROINK_corpus": "食料の補給が急務であると伝えられた。"
+  },
+  {
+    "ID": "RECITATION324_096",
+    "mergedcorpus": "RECITATION324_096:展示会であの作品のみ不評だった。",
+    "MYCOEIROINK_corpus": "展示会であの作品のみ不評だった。"
+  },
+  {
+    "ID": "RECITATION324_097",
+    "mergedcorpus": "RECITATION324_097:客人をもてなすのは当然です。",
+    "MYCOEIROINK_corpus": "客人をもてなすのは当然です。"
+  },
+  {
+    "ID": "RECITATION324_098",
+    "mergedcorpus": "RECITATION324_098:旅行客が楽しめるように工夫しましょう。",
+    "MYCOEIROINK_corpus": "旅行客が楽しめるように工夫しましょう。"
+  },
+  {
+    "ID": "RECITATION324_099",
+    "mergedcorpus": "RECITATION324_099:こんな冗談のようなニュースはない。",
+    "MYCOEIROINK_corpus": "こんな冗談のようなニュースはない。"
+  },
+  {
+    "ID": "RECITATION324_100",
+    "mergedcorpus": "RECITATION324_100:小さい星をたくさん描いた、水飲みグラスはよくある。",
+    "MYCOEIROINK_corpus": "小さい星をたくさん描いた、水飲みグラスはよくある。"
+  },
+  {
+    "ID": "RECITATION324_101",
+    "mergedcorpus": "RECITATION324_101:柄は、猫の尻尾でもあるように、尖端をぶるぶると震わせながら、動いていく。",
+    "MYCOEIROINK_corpus": "柄は、猫の尻尾でもあるように、尖端をぶるぶると震わせながら、動いていく。"
+  },
+  {
+    "ID": "RECITATION324_102",
+    "mergedcorpus": "RECITATION324_102:開店当初プリンが一番売れていた。",
+    "MYCOEIROINK_corpus": "開店当初プリンが一番売れていた。"
+  },
+  {
+    "ID": "RECITATION324_103",
+    "mergedcorpus": "RECITATION324_103:ロナルドホープ大尉が大将のマンションへ急行しました。",
+    "MYCOEIROINK_corpus": "ロナルドホープ大尉が大将のマンションへ急行しました。"
+  },
+  {
+    "ID": "RECITATION324_104",
+    "mergedcorpus": "RECITATION324_104:日刊センティナル紙の屁プバンです。",
+    "MYCOEIROINK_corpus": "日刊センティナル紙の屁プバンです。"
+  },
+  {
+    "ID": "RECITATION324_105",
+    "mergedcorpus": "RECITATION324_105:この宝石は、ひとつ百万円以上のお値段です。",
+    "MYCOEIROINK_corpus": "この宝石は、ひとつ百万円以上のお値段です。"
+  },
+  {
+    "ID": "RECITATION324_106",
+    "mergedcorpus": "RECITATION324_106:チョウチョと仲良くなるんだから。",
+    "MYCOEIROINK_corpus": "チョウチョと仲良くなるんだから。"
+  },
+  {
+    "ID": "RECITATION324_107",
+    "mergedcorpus": "RECITATION324_107:宇宙では、エントロピーは無際限に増大している。",
+    "MYCOEIROINK_corpus": "宇宙では、エントロピーは無際限に増大している。"
+  },
+  {
+    "ID": "RECITATION324_108",
+    "mergedcorpus": "RECITATION324_108:川の中流に集落がある。",
+    "MYCOEIROINK_corpus": "川の中流に集落がある。"
+  },
+  {
+    "ID": "RECITATION324_109",
+    "mergedcorpus": "RECITATION324_109:是非お話させて頂きたいと思います。",
+    "MYCOEIROINK_corpus": "是非お話させて頂きたいと思います。"
+  },
+  {
+    "ID": "RECITATION324_110",
+    "mergedcorpus": "RECITATION324_110:お隣さんが蒟蒻を持っていらっしゃる。",
+    "MYCOEIROINK_corpus": "お隣さんが蒟蒻を持っていらっしゃる。"
+  },
+  {
+    "ID": "RECITATION324_111",
+    "mergedcorpus": "RECITATION324_111:パーティーは楽しむものです。",
+    "MYCOEIROINK_corpus": "パーティーは楽しむものです。"
+  },
+  {
+    "ID": "RECITATION324_112",
+    "mergedcorpus": "RECITATION324_112:おてつと大きく書かれた番茶茶碗は、これらの人々の前に置かれた。",
+    "MYCOEIROINK_corpus": "おてつと大きく書かれた番茶茶碗は、これらの人々の前に置かれた。"
+  },
+  {
+    "ID": "RECITATION324_113",
+    "mergedcorpus": "RECITATION324_113:私のポケットの中には携帯電話が入っています。",
+    "MYCOEIROINK_corpus": "私のポケットの中には携帯電話が入っています。"
+  },
+  {
+    "ID": "RECITATION324_114",
+    "mergedcorpus": "RECITATION324_114:彼は今度は牧場へ行って、沼地で小悪魔の尻尾一つ見つけました。",
+    "MYCOEIROINK_corpus": "彼は今度は牧場へ行って、沼地で小悪魔の尻尾一つ見つけました。"
+  },
+  {
+    "ID": "RECITATION324_115",
+    "mergedcorpus": "RECITATION324_115:五行説による占いがあるという情報あり。",
+    "MYCOEIROINK_corpus": "五行説による占いがあるという情報あり。"
+  },
+  {
+    "ID": "RECITATION324_116",
+    "mergedcorpus": "RECITATION324_116:テンプル君、既に真逆だと言った。",
+    "MYCOEIROINK_corpus": "テンプル君、既に真逆だと言った。"
+  },
+  {
+    "ID": "RECITATION324_117",
+    "mergedcorpus": "RECITATION324_117:世界中の様々なモニュメントを訪ね歩いた。",
+    "MYCOEIROINK_corpus": "世界中の様々なモニュメントを訪ね歩いた。"
+  },
+  {
+    "ID": "RECITATION324_118",
+    "mergedcorpus": "RECITATION324_118:アンソニーホプキンスは有名な俳優です。",
+    "MYCOEIROINK_corpus": "アンソニーホプキンスは有名な俳優です。"
+  },
+  {
+    "ID": "RECITATION324_119",
+    "mergedcorpus": "RECITATION324_119:彼女は出来るだけぴったりと耳をあてて聴きました。",
+    "MYCOEIROINK_corpus": "彼女は出来るだけぴったりと耳をあてて聴きました。"
+  },
+  {
+    "ID": "RECITATION324_120",
+    "mergedcorpus": "RECITATION324_120:茶一つ参らぬか、まあいいで。",
+    "MYCOEIROINK_corpus": "茶一つ参らぬか、まあいいで。"
+  },
+  {
+    "ID": "RECITATION324_121",
+    "mergedcorpus": "RECITATION324_121:ボヤですんでよかった。",
+    "MYCOEIROINK_corpus": "ボヤですんでよかった。"
+  },
+  {
+    "ID": "RECITATION324_122",
+    "mergedcorpus": "RECITATION324_122:モンタギュゴーシ卿がマンチェスターに来た。",
+    "MYCOEIROINK_corpus": "モンタギュゴーシ卿がマンチェスターに来た。"
+  },
+  {
+    "ID": "RECITATION324_123",
+    "mergedcorpus": "RECITATION324_123:ウィスキーの水割りをガッツリ飲んだ。",
+    "MYCOEIROINK_corpus": "ウィスキーの水割りをガッツリ飲んだ。"
+  },
+  {
+    "ID": "RECITATION324_124",
+    "mergedcorpus": "RECITATION324_124:これやお祭りを若いものに見せるにゃ持ってこいだ。",
+    "MYCOEIROINK_corpus": "これやお祭りを若いものに見せるにゃ持ってこいだ。"
+  },
+  {
+    "ID": "RECITATION324_125",
+    "mergedcorpus": "RECITATION324_125:私はイメージカラーをピンクに決めた。",
+    "MYCOEIROINK_corpus": "私はイメージカラーをピンクに決めた。"
+  },
+  {
+    "ID": "RECITATION324_126",
+    "mergedcorpus": "RECITATION324_126:ムニャムニャ、もう食べれません。",
+    "MYCOEIROINK_corpus": "ムニャムニャ、もう食べれません。"
+  },
+  {
+    "ID": "RECITATION324_127",
+    "mergedcorpus": "RECITATION324_127:満洲は雨季以外には雨が少ないと言われているが、わたしが満洲にあるあいだは、大戦中のせいか、ずいぶん雨が多かった。",
+    "MYCOEIROINK_corpus": "満洲は雨季以外には雨が少ないと言われているが、わたしが満洲にあるあいだは、大戦中のせいか、ずいぶん雨が多かった。"
+  },
+  {
+    "ID": "RECITATION324_128",
+    "mergedcorpus": "RECITATION324_128:均一居酒屋では一番売れても二人で八千円くらいだ。",
+    "MYCOEIROINK_corpus": "均一居酒屋では一番売れても二人で八千円くらいだ。"
+  },
+  {
+    "ID": "RECITATION324_129",
+    "mergedcorpus": "RECITATION324_129:願いをかなえる。",
+    "MYCOEIROINK_corpus": "願いをかなえる。"
+  },
+  {
+    "ID": "RECITATION324_130",
+    "mergedcorpus": "RECITATION324_130:最初つらかったけど、花や園芸が好きだったから、失意が癒やされないこともない。",
+    "MYCOEIROINK_corpus": "最初つらかったけど、花や園芸が好きだったから、失意が癒やされないこともない。"
+  },
+  {
+    "ID": "RECITATION324_131",
+    "mergedcorpus": "RECITATION324_131:ペピス爺さんはもう寝るらしい。",
+    "MYCOEIROINK_corpus": "ペピス爺さんはもう寝るらしい。"
+  },
+  {
+    "ID": "RECITATION324_132",
+    "mergedcorpus": "RECITATION324_132:直ぐウィルキンソンを呼びに行け。",
+    "MYCOEIROINK_corpus": "直ぐウィルキンソンを呼びに行け。"
+  },
+  {
+    "ID": "RECITATION324_133",
+    "mergedcorpus": "RECITATION324_133:お昼前ジャスパーさん宅へ再びお邪魔しました。",
+    "MYCOEIROINK_corpus": "お昼前ジャスパーさん宅へ再びお邪魔しました。"
+  },
+  {
+    "ID": "RECITATION324_134",
+    "mergedcorpus": "RECITATION324_134:その竜の百の頭が恐ろしい。",
+    "MYCOEIROINK_corpus": "その竜の百の頭が恐ろしい。"
+  },
+  {
+    "ID": "RECITATION324_135",
+    "mergedcorpus": "RECITATION324_135:必要なミョウバンの量はプリントに書いてあります。",
+    "MYCOEIROINK_corpus": "必要なミョウバンの量はプリントに書いてあります。"
+  },
+  {
+    "ID": "RECITATION324_136",
+    "mergedcorpus": "RECITATION324_136:マリーロジェはパヴェサンタンの家を出た。",
+    "MYCOEIROINK_corpus": "マリーロジェはパヴェサンタンの家を出た。"
+  },
+  {
+    "ID": "RECITATION324_137",
+    "mergedcorpus": "RECITATION324_137:読み進むにつれ、ますます興味が湧いた。",
+    "MYCOEIROINK_corpus": "読み進むにつれ、ますます興味が湧いた。"
+  },
+  {
+    "ID": "RECITATION324_138",
+    "mergedcorpus": "RECITATION324_138:笑いかけながらイチニホ近寄った。",
+    "MYCOEIROINK_corpus": "笑いかけながらイチニホ近寄った。"
+  },
+  {
+    "ID": "RECITATION324_139",
+    "mergedcorpus": "RECITATION324_139:地表を緑化して、温暖化を抑止する能力を強くする。",
+    "MYCOEIROINK_corpus": "地表を緑化して、温暖化を抑止する能力を強くする。"
+  },
+  {
+    "ID": "RECITATION324_140",
+    "mergedcorpus": "RECITATION324_140:ハサミでプツッと切った切れ端をペットにあげた。",
+    "MYCOEIROINK_corpus": "ハサミでプツッと切った切れ端をペットにあげた。"
+  },
+  {
+    "ID": "RECITATION324_141",
+    "mergedcorpus": "RECITATION324_141:ホームランを打つ。",
+    "MYCOEIROINK_corpus": "ホームランを打つ。"
+  },
+  {
+    "ID": "RECITATION324_142",
+    "mergedcorpus": "RECITATION324_142:プレゼントをギャロウェイさんに渡してください。",
+    "MYCOEIROINK_corpus": "プレゼントをギャロウェイさんに渡してください。"
+  },
+  {
+    "ID": "RECITATION324_143",
+    "mergedcorpus": "RECITATION324_143:ケプラーの法則について直接私に聞いてきた。",
+    "MYCOEIROINK_corpus": "ケプラーの法則について直接私に聞いてきた。"
+  },
+  {
+    "ID": "RECITATION324_144",
+    "mergedcorpus": "RECITATION324_144:ウェンディーズはハンバーガー屋さんです。",
+    "MYCOEIROINK_corpus": "ウェンディーズはハンバーガー屋さんです。"
+  },
+  {
+    "ID": "RECITATION324_145",
+    "mergedcorpus": "RECITATION324_145:しかし氷河はアルプスだけにあるものではない。",
+    "MYCOEIROINK_corpus": "しかし氷河はアルプスだけにあるものではない。"
+  },
+  {
+    "ID": "RECITATION324_146",
+    "mergedcorpus": "RECITATION324_146:この先百年も抹茶は衰退しない。",
+    "MYCOEIROINK_corpus": "この先百年も抹茶は衰退しない。"
+  },
+  {
+    "ID": "RECITATION324_147",
+    "mergedcorpus": "RECITATION324_147:自分を評価するのは会社であって、行き過ぎた自己表現は失脚につながる。",
+    "MYCOEIROINK_corpus": "自分を評価するのは会社であって、行き過ぎた自己表現は失脚につながる。"
+  },
+  {
+    "ID": "RECITATION324_148",
+    "mergedcorpus": "RECITATION324_148:夜に吹く風のヒュウヒュウという音が私を不安にさせる。",
+    "MYCOEIROINK_corpus": "夜に吹く風のヒュウヒュウという音が私を不安にさせる。"
+  },
+  {
+    "ID": "RECITATION324_149",
+    "mergedcorpus": "RECITATION324_149:可愛い華奢な女の子。",
+    "MYCOEIROINK_corpus": "可愛い華奢な女の子。"
+  },
+  {
+    "ID": "RECITATION324_150",
+    "mergedcorpus": "RECITATION324_150:水中の金魚をすくうためのポイ。",
+    "MYCOEIROINK_corpus": "水中の金魚をすくうためのポイ。"
+  },
+  {
+    "ID": "RECITATION324_151",
+    "mergedcorpus": "RECITATION324_151:グレンエルギンはウィスキーのジョウリュウジョです。",
+    "MYCOEIROINK_corpus": "グレンエルギンはウィスキーのジョウリュウジョです。"
+  },
+  {
+    "ID": "RECITATION324_152",
+    "mergedcorpus": "RECITATION324_152:一寸法師が、ヒョコヒョコと彼の方へ近づいた。",
+    "MYCOEIROINK_corpus": "一寸法師が、ヒョコヒョコと彼の方へ近づいた。"
+  },
+  {
+    "ID": "RECITATION324_153",
+    "mergedcorpus": "RECITATION324_153:連中はリビングでぺちゃくちゃ喋って、警戒していない。",
+    "MYCOEIROINK_corpus": "連中はリビングでぺちゃくちゃ喋って、警戒していない。"
+  },
+  {
+    "ID": "RECITATION324_154",
+    "mergedcorpus": "RECITATION324_154:平一郎はシャツ一枚になって絹物の布団の中へ潜りこんだ。",
+    "MYCOEIROINK_corpus": "平一郎はシャツ一枚になって絹物の布団の中へ潜りこんだ。"
+  },
+  {
+    "ID": "RECITATION324_155",
+    "mergedcorpus": "RECITATION324_155:下京区に引っ越す。",
+    "MYCOEIROINK_corpus": "下京区に引っ越す。"
+  },
+  {
+    "ID": "RECITATION324_156",
+    "mergedcorpus": "RECITATION324_156:彼の言葉に一種不思議な感覚を覚えた。",
+    "MYCOEIROINK_corpus": "彼の言葉に一種不思議な感覚を覚えた。"
+  },
+  {
+    "ID": "RECITATION324_157",
+    "mergedcorpus": "RECITATION324_157:この事業所には百人以上の人が勤めています。",
+    "MYCOEIROINK_corpus": "この事業所には百人以上の人が勤めています。"
+  },
+  {
+    "ID": "RECITATION324_158",
+    "mergedcorpus": "RECITATION324_158:わたしの家ばかりでなく、近所の住居といわず、商店といわず、バラックの家々ではみな草花を植えている。",
+    "MYCOEIROINK_corpus": "わたしの家ばかりでなく、近所の住居といわず、商店といわず、バラックの家々ではみな草花を植えている。"
+  },
+  {
+    "ID": "RECITATION324_159",
+    "mergedcorpus": "RECITATION324_159:どうせ私は馬の世話をせにゃならんから、外へ行こう。",
+    "MYCOEIROINK_corpus": "どうせ私は馬の世話をせにゃならんから、外へ行こう。"
+  },
+  {
+    "ID": "RECITATION324_160",
+    "mergedcorpus": "RECITATION324_160:ヤンセチャンというお笑い芸人。",
+    "MYCOEIROINK_corpus": "ヤンセチャンというお笑い芸人。"
+  },
+  {
+    "ID": "RECITATION324_161",
+    "mergedcorpus": "RECITATION324_161:男が妙な顔をして、一瞬残忍になった。",
+    "MYCOEIROINK_corpus": "男が妙な顔をして、一瞬残忍になった。"
+  },
+  {
+    "ID": "RECITATION324_162",
+    "mergedcorpus": "RECITATION324_162:普及活動に幻滅した。",
+    "MYCOEIROINK_corpus": "普及活動に幻滅した。"
+  },
+  {
+    "ID": "RECITATION324_163",
+    "mergedcorpus": "RECITATION324_163:雨がぽつぽつ降りだした。",
+    "MYCOEIROINK_corpus": "雨がぽつぽつ降りだした。"
+  },
+  {
+    "ID": "RECITATION324_164",
+    "mergedcorpus": "RECITATION324_164:ペリウィンクルやプランティンはブルーアイです。",
+    "MYCOEIROINK_corpus": "ペリウィンクルやプランティンはブルーアイです。"
+  },
+  {
+    "ID": "RECITATION324_165",
+    "mergedcorpus": "RECITATION324_165:姫や侍女たちが、キンポウゲやタンポポの花を持って、彼の方へ駆け寄っていった。",
+    "MYCOEIROINK_corpus": "姫や侍女たちが、キンポウゲやタンポポの花を持って、彼の方へ駆け寄っていった。"
+  },
+  {
+    "ID": "RECITATION324_166",
+    "mergedcorpus": "RECITATION324_166:ミンナの協力のおかげで帰郷できた。",
+    "MYCOEIROINK_corpus": "ミンナの協力のおかげで帰郷できた。"
+  },
+  {
+    "ID": "RECITATION324_167",
+    "mergedcorpus": "RECITATION324_167:ウォルターとウォードが入室すると、ノラが真っ赤になった。",
+    "MYCOEIROINK_corpus": "ウォルターとウォードが入室すると、ノラが真っ赤になった。"
+  },
+  {
+    "ID": "RECITATION324_168",
+    "mergedcorpus": "RECITATION324_168:今の持ちフダではあがれずに終わる。",
+    "MYCOEIROINK_corpus": "今の持ちフダではあがれずに終わる。"
+  },
+  {
+    "ID": "RECITATION324_169",
+    "mergedcorpus": "RECITATION324_169:勉強中は話しかけないで。",
+    "MYCOEIROINK_corpus": "勉強中は話しかけないで。"
+  },
+  {
+    "ID": "RECITATION324_170",
+    "mergedcorpus": "RECITATION324_170:レパードの花壇が枯れ果てた。",
+    "MYCOEIROINK_corpus": "レパードの花壇が枯れ果てた。"
+  },
+  {
+    "ID": "RECITATION324_171",
+    "mergedcorpus": "RECITATION324_171:蒸留酒にミョウバンを加える。",
+    "MYCOEIROINK_corpus": "蒸留酒にミョウバンを加える。"
+  },
+  {
+    "ID": "RECITATION324_172",
+    "mergedcorpus": "RECITATION324_172:取っつきにくい女中が三人いる。",
+    "MYCOEIROINK_corpus": "取っつきにくい女中が三人いる。"
+  },
+  {
+    "ID": "RECITATION324_173",
+    "mergedcorpus": "RECITATION324_173:レインボーブリッジは東京の名所。",
+    "MYCOEIROINK_corpus": "レインボーブリッジは東京の名所。"
+  },
+  {
+    "ID": "RECITATION324_174",
+    "mergedcorpus": "RECITATION324_174:ヒキョーモノは悪党です。",
+    "MYCOEIROINK_corpus": "ヒキョーモノは悪党です。"
+  },
+  {
+    "ID": "RECITATION324_175",
+    "mergedcorpus": "RECITATION324_175:突然海へ飛び込んだ。",
+    "MYCOEIROINK_corpus": "突然海へ飛び込んだ。"
+  },
+  {
+    "ID": "RECITATION324_176",
+    "mergedcorpus": "RECITATION324_176:仕事はどっさりとあります。",
+    "MYCOEIROINK_corpus": "仕事はどっさりとあります。"
+  },
+  {
+    "ID": "RECITATION324_177",
+    "mergedcorpus": "RECITATION324_177:葉巻パイプはありましたか。",
+    "MYCOEIROINK_corpus": "葉巻パイプはありましたか。"
+  },
+  {
+    "ID": "RECITATION324_178",
+    "mergedcorpus": "RECITATION324_178:八百屋に行って百円で大根を買った。",
+    "MYCOEIROINK_corpus": "八百屋に行って百円で大根を買った。"
+  },
+  {
+    "ID": "RECITATION324_179",
+    "mergedcorpus": "RECITATION324_179:般若とは鬼女の能面の事です。",
+    "MYCOEIROINK_corpus": "般若とは鬼女の能面の事です。"
+  },
+  {
+    "ID": "RECITATION324_180",
+    "mergedcorpus": "RECITATION324_180:ニホンへ行くには船か飛行機が必要です。",
+    "MYCOEIROINK_corpus": "ニホンへ行くには船か飛行機が必要です。"
+  },
+  {
+    "ID": "RECITATION324_181",
+    "mergedcorpus": "RECITATION324_181:しかしパーで回るのも難しい。",
+    "MYCOEIROINK_corpus": "しかしパーで回るのも難しい。"
+  },
+  {
+    "ID": "RECITATION324_182",
+    "mergedcorpus": "RECITATION324_182:のぼせないように入浴するにはお湯の量と温度が大事。",
+    "MYCOEIROINK_corpus": "のぼせないように入浴するにはお湯の量と温度が大事。"
+  },
+  {
+    "ID": "RECITATION324_183",
+    "mergedcorpus": "RECITATION324_183:キタロウクンは冗談半分で盗みに入って怪我をした。",
+    "MYCOEIROINK_corpus": "キタロウクンは冗談半分で盗みに入って怪我をした。"
+  },
+  {
+    "ID": "RECITATION324_184",
+    "mergedcorpus": "RECITATION324_184:バーニ医師がピシッと答えた。",
+    "MYCOEIROINK_corpus": "バーニ医師がピシッと答えた。"
+  },
+  {
+    "ID": "RECITATION324_185",
+    "mergedcorpus": "RECITATION324_185:男の妙な動きが怪しい。",
+    "MYCOEIROINK_corpus": "男の妙な動きが怪しい。"
+  },
+  {
+    "ID": "RECITATION324_186",
+    "mergedcorpus": "RECITATION324_186:私の病気は先天性なのです。",
+    "MYCOEIROINK_corpus": "私の病気は先天性なのです。"
+  },
+  {
+    "ID": "RECITATION324_187",
+    "mergedcorpus": "RECITATION324_187:三国志の関羽という将軍はすごく有名です。",
+    "MYCOEIROINK_corpus": "三国志の関羽という将軍はすごく有名です。"
+  },
+  {
+    "ID": "RECITATION324_188",
+    "mergedcorpus": "RECITATION324_188:過酷な業務に耐える。",
+    "MYCOEIROINK_corpus": "過酷な業務に耐える。"
+  },
+  {
+    "ID": "RECITATION324_189",
+    "mergedcorpus": "RECITATION324_189:町の女房らしい二人連れが、日傘を持って入ってきた。",
+    "MYCOEIROINK_corpus": "町の女房らしい二人連れが、日傘を持って入ってきた。"
+  },
+  {
+    "ID": "RECITATION324_190",
+    "mergedcorpus": "RECITATION324_190:名をツァウォツキイといった。",
+    "MYCOEIROINK_corpus": "名をツァウォツキイといった。"
+  },
+  {
+    "ID": "RECITATION324_191",
+    "mergedcorpus": "RECITATION324_191:飲み会の参加を拒否した。",
+    "MYCOEIROINK_corpus": "飲み会の参加を拒否した。"
+  },
+  {
+    "ID": "RECITATION324_192",
+    "mergedcorpus": "RECITATION324_192:夫人が仰天したのも無理はない。",
+    "MYCOEIROINK_corpus": "夫人が仰天したのも無理はない。"
+  },
+  {
+    "ID": "RECITATION324_193",
+    "mergedcorpus": "RECITATION324_193:セファドールはめまいを抑える薬です。",
+    "MYCOEIROINK_corpus": "セファドールはめまいを抑える薬です。"
+  },
+  {
+    "ID": "RECITATION324_194",
+    "mergedcorpus": "RECITATION324_194:ミンの一訓詁学者は、宋代典籍の一つにあげてある茶せんの形状を思い起こすに苦しんでいる。",
+    "MYCOEIROINK_corpus": "ミンの一訓詁学者は、宋代典籍の一つにあげてある茶せんの形状を思い起こすに苦しんでいる。"
+  },
+  {
+    "ID": "RECITATION324_195",
+    "mergedcorpus": "RECITATION324_195:深海魚は見た目は悪いがおいしいことが多い。",
+    "MYCOEIROINK_corpus": "深海魚は見た目は悪いがおいしいことが多い。"
+  },
+  {
+    "ID": "RECITATION324_196",
+    "mergedcorpus": "RECITATION324_196:ニューヨークでイヴニングポストの記事に注目した。",
+    "MYCOEIROINK_corpus": "ニューヨークでイヴニングポストの記事に注目した。"
+  },
+  {
+    "ID": "RECITATION324_197",
+    "mergedcorpus": "RECITATION324_197:確かに牛乳とコーンフレークの相性は抜群だ。",
+    "MYCOEIROINK_corpus": "確かに牛乳とコーンフレークの相性は抜群だ。"
+  },
+  {
+    "ID": "RECITATION324_198",
+    "mergedcorpus": "RECITATION324_198:その一は、明治三十七年の九月八日か九日の夜とおぼえている。",
+    "MYCOEIROINK_corpus": "その一は、明治三十七年の九月八日か九日の夜とおぼえている。"
+  },
+  {
+    "ID": "RECITATION324_199",
+    "mergedcorpus": "RECITATION324_199:マルメゾンの店主はジェシーとは仲良しだ。",
+    "MYCOEIROINK_corpus": "マルメゾンの店主はジェシーとは仲良しだ。"
+  },
+  {
+    "ID": "RECITATION324_200",
+    "mergedcorpus": "RECITATION324_200:釣竿を肩にかけた処士あり。",
+    "MYCOEIROINK_corpus": "釣竿を肩にかけた処士あり。"
+  },
+  {
+    "ID": "RECITATION324_201",
+    "mergedcorpus": "RECITATION324_201:最新鋭機に乗り込む。",
+    "MYCOEIROINK_corpus": "最新鋭機に乗り込む。"
+  },
+  {
+    "ID": "RECITATION324_202",
+    "mergedcorpus": "RECITATION324_202:誰かが後ろへ来て、変な声で叫んだのでぞっとした。",
+    "MYCOEIROINK_corpus": "誰かが後ろへ来て、変な声で叫んだのでぞっとした。"
+  },
+  {
+    "ID": "RECITATION324_203",
+    "mergedcorpus": "RECITATION324_203:おおでらの石段の前に立ち止まって、その出て来るのを待ちあわせた。",
+    "MYCOEIROINK_corpus": "おおでらの石段の前に立ち止まって、その出て来るのを待ちあわせた。"
+  },
+  {
+    "ID": "RECITATION324_204",
+    "mergedcorpus": "RECITATION324_204:未解決の懸案を持って重役と対峙する。",
+    "MYCOEIROINK_corpus": "未解決の懸案を持って重役と対峙する。"
+  },
+  {
+    "ID": "RECITATION324_205",
+    "mergedcorpus": "RECITATION324_205:ウスヅキの光が庭を照らす。",
+    "MYCOEIROINK_corpus": "ウスヅキの光が庭を照らす。"
+  },
+  {
+    "ID": "RECITATION324_206",
+    "mergedcorpus": "RECITATION324_206:犯人がどっちの部屋へ入ったかわからない。",
+    "MYCOEIROINK_corpus": "犯人がどっちの部屋へ入ったかわからない。"
+  },
+  {
+    "ID": "RECITATION324_207",
+    "mergedcorpus": "RECITATION324_207:渓谷から出た氷河が一本に合流する。",
+    "MYCOEIROINK_corpus": "渓谷から出た氷河が一本に合流する。"
+  },
+  {
+    "ID": "RECITATION324_208",
+    "mergedcorpus": "RECITATION324_208:ディスカッションを進める。",
+    "MYCOEIROINK_corpus": "ディスカッションを進める。"
+  },
+  {
+    "ID": "RECITATION324_209",
+    "mergedcorpus": "RECITATION324_209:九頭竜明神を祭るために灯篭をながす。",
+    "MYCOEIROINK_corpus": "九頭竜明神を祭るために灯篭をながす。"
+  },
+  {
+    "ID": "RECITATION324_210",
+    "mergedcorpus": "RECITATION324_210:今回の資料作りは深い思慮を必要としたが、先日やっと終了した。",
+    "MYCOEIROINK_corpus": "今回の資料作りは深い思慮を必要としたが、先日やっと終了した。"
+  },
+  {
+    "ID": "RECITATION324_211",
+    "mergedcorpus": "RECITATION324_211:骨子をしっかりと組み立てる。",
+    "MYCOEIROINK_corpus": "骨子をしっかりと組み立てる。"
+  },
+  {
+    "ID": "RECITATION324_212",
+    "mergedcorpus": "RECITATION324_212:気球にのって空を楽しむ。",
+    "MYCOEIROINK_corpus": "気球にのって空を楽しむ。"
+  },
+  {
+    "ID": "RECITATION324_213",
+    "mergedcorpus": "RECITATION324_213:批評ばかりでなく対案も出すべき。",
+    "MYCOEIROINK_corpus": "批評ばかりでなく対案も出すべき。"
+  },
+  {
+    "ID": "RECITATION324_214",
+    "mergedcorpus": "RECITATION324_214:かれらは幕のあいだに木戸の外を散歩しているのである。",
+    "MYCOEIROINK_corpus": "かれらは幕のあいだに木戸の外を散歩しているのである。"
+  },
+  {
+    "ID": "RECITATION324_215",
+    "mergedcorpus": "RECITATION324_215:過去の数々の奇病が治るようになりつつある。",
+    "MYCOEIROINK_corpus": "過去の数々の奇病が治るようになりつつある。"
+  },
+  {
+    "ID": "RECITATION324_216",
+    "mergedcorpus": "RECITATION324_216:購入者はポンプの修理が必要なことに気がついた。",
+    "MYCOEIROINK_corpus": "購入者はポンプの修理が必要なことに気がついた。"
+  },
+  {
+    "ID": "RECITATION324_217",
+    "mergedcorpus": "RECITATION324_217:彼自身は、レジ業務につきたいと思っている。",
+    "MYCOEIROINK_corpus": "彼自身は、レジ業務につきたいと思っている。"
+  },
+  {
+    "ID": "RECITATION324_218",
+    "mergedcorpus": "RECITATION324_218:地毛は金色なんです。",
+    "MYCOEIROINK_corpus": "地毛は金色なんです。"
+  },
+  {
+    "ID": "RECITATION324_219",
+    "mergedcorpus": "RECITATION324_219:鉛筆は折れやすくて不便です。",
+    "MYCOEIROINK_corpus": "鉛筆は折れやすくて不便です。"
+  },
+  {
+    "ID": "RECITATION324_220",
+    "mergedcorpus": "RECITATION324_220:ヒポクラテスは医学の父と呼ばれます。",
+    "MYCOEIROINK_corpus": "ヒポクラテスは医学の父と呼ばれます。"
+  },
+  {
+    "ID": "RECITATION324_221",
+    "mergedcorpus": "RECITATION324_221:ところが商人は、国ざかいのすぐ近くへ住まって、やはり前と同じようにやっています。",
+    "MYCOEIROINK_corpus": "ところが商人は、国ざかいのすぐ近くへ住まって、やはり前と同じようにやっています。"
+  },
+  {
+    "ID": "RECITATION324_222",
+    "mergedcorpus": "RECITATION324_222:今まで明るかった二階の窓は、急にまっくらになってしまいました。",
+    "MYCOEIROINK_corpus": "今まで明るかった二階の窓は、急にまっくらになってしまいました。"
+  },
+  {
+    "ID": "RECITATION324_223",
+    "mergedcorpus": "RECITATION324_223:アスファルトに囲まれた中にケヤキの木が一本。",
+    "MYCOEIROINK_corpus": "アスファルトに囲まれた中にケヤキの木が一本。"
+  },
+  {
+    "ID": "RECITATION324_224",
+    "mergedcorpus": "RECITATION324_224:名札を用意する。",
+    "MYCOEIROINK_corpus": "名札を用意する。"
+  },
+  {
+    "ID": "RECITATION324_225",
+    "mergedcorpus": "RECITATION324_225:マッチョな男性はモテるそう。",
+    "MYCOEIROINK_corpus": "マッチョな男性はモテるそう。"
+  },
+  {
+    "ID": "RECITATION324_226",
+    "mergedcorpus": "RECITATION324_226:社務所の人の話に嘘はなかった。",
+    "MYCOEIROINK_corpus": "社務所の人の話に嘘はなかった。"
+  },
+  {
+    "ID": "RECITATION324_227",
+    "mergedcorpus": "RECITATION324_227:行楽シーズンの京都は人でいっぱい。",
+    "MYCOEIROINK_corpus": "行楽シーズンの京都は人でいっぱい。"
+  },
+  {
+    "ID": "RECITATION324_228",
+    "mergedcorpus": "RECITATION324_228:どこからかパチパチと音が聞こえる。",
+    "MYCOEIROINK_corpus": "どこからかパチパチと音が聞こえる。"
+  },
+  {
+    "ID": "RECITATION324_229",
+    "mergedcorpus": "RECITATION324_229:プロ野球はどのチームが優勝するだろう？",
+    "MYCOEIROINK_corpus": "プロ野球はどのチームが優勝するだろう？"
+  },
+  {
+    "ID": "RECITATION324_230",
+    "mergedcorpus": "RECITATION324_230:しかし、これではまるで私が誘拐しましたと自首して出るようなもので、そんな馬鹿なことをするやつはあるまい。",
+    "MYCOEIROINK_corpus": "しかし、これではまるで私が誘拐しましたと自首して出るようなもので、そんな馬鹿なことをするやつはあるまい。"
+  },
+  {
+    "ID": "RECITATION324_231",
+    "mergedcorpus": "RECITATION324_231:切望しつつ、ヌシを待つ。",
+    "MYCOEIROINK_corpus": "切望しつつ、ヌシを待つ。"
+  },
+  {
+    "ID": "RECITATION324_232",
+    "mergedcorpus": "RECITATION324_232:しばらくしてパチパチという音も止んだ。",
+    "MYCOEIROINK_corpus": "しばらくしてパチパチという音も止んだ。"
+  },
+  {
+    "ID": "RECITATION324_233",
+    "mergedcorpus": "RECITATION324_233:身分をわきまえず放った狂言。",
+    "MYCOEIROINK_corpus": "身分をわきまえず放った狂言。"
+  },
+  {
+    "ID": "RECITATION324_234",
+    "mergedcorpus": "RECITATION324_234:天を翔ける竜の姿は神秘的だ。",
+    "MYCOEIROINK_corpus": "天を翔ける竜の姿は神秘的だ。"
+  },
+  {
+    "ID": "RECITATION324_235",
+    "mergedcorpus": "RECITATION324_235:私の精神と一脈アイツウジルモノがあると思いました。",
+    "MYCOEIROINK_corpus": "私の精神と一脈アイツウジルモノがあると思いました。"
+  },
+  {
+    "ID": "RECITATION324_236",
+    "mergedcorpus": "RECITATION324_236:ミンナも球場に行きましょう。",
+    "MYCOEIROINK_corpus": "ミンナも球場に行きましょう。"
+  },
+  {
+    "ID": "RECITATION324_237",
+    "mergedcorpus": "RECITATION324_237:コペルニクスはポーランドの天文学者です。",
+    "MYCOEIROINK_corpus": "コペルニクスはポーランドの天文学者です。"
+  },
+  {
+    "ID": "RECITATION324_238",
+    "mergedcorpus": "RECITATION324_238:海沿いの旅館は眺めがいい。",
+    "MYCOEIROINK_corpus": "海沿いの旅館は眺めがいい。"
+  },
+  {
+    "ID": "RECITATION324_239",
+    "mergedcorpus": "RECITATION324_239:集中すると周りが見えない。",
+    "MYCOEIROINK_corpus": "集中すると周りが見えない。"
+  },
+  {
+    "ID": "RECITATION324_240",
+    "mergedcorpus": "RECITATION324_240:春木座はコンニチの本郷座である。",
+    "MYCOEIROINK_corpus": "春木座はコンニチの本郷座である。"
+  },
+  {
+    "ID": "RECITATION324_241",
+    "mergedcorpus": "RECITATION324_241:私の手を引っ張るようにして、手のひらへくれました。",
+    "MYCOEIROINK_corpus": "私の手を引っ張るようにして、手のひらへくれました。"
+  },
+  {
+    "ID": "RECITATION324_242",
+    "mergedcorpus": "RECITATION324_242:北海の荒波は、その氷の絶壁の根を噛んで、激しく飛沫を散らしている。",
+    "MYCOEIROINK_corpus": "北海の荒波は、その氷の絶壁の根を噛んで、激しく飛沫を散らしている。"
+  },
+  {
+    "ID": "RECITATION324_243",
+    "mergedcorpus": "RECITATION324_243:戦意を喪失させるのが勝利への近道。",
+    "MYCOEIROINK_corpus": "戦意を喪失させるのが勝利への近道。"
+  },
+  {
+    "ID": "RECITATION324_244",
+    "mergedcorpus": "RECITATION324_244:がちょうを飼う。",
+    "MYCOEIROINK_corpus": "がちょうを飼う。"
+  },
+  {
+    "ID": "RECITATION324_245",
+    "mergedcorpus": "RECITATION324_245:ふぁふぁと笑いながら楽しく手拍子。",
+    "MYCOEIROINK_corpus": "ふぁふぁと笑いながら楽しく手拍子。"
+  },
+  {
+    "ID": "RECITATION324_246",
+    "mergedcorpus": "RECITATION324_246:従軍記者は大尉相当の待遇を受ける。",
+    "MYCOEIROINK_corpus": "従軍記者は大尉相当の待遇を受ける。"
+  },
+  {
+    "ID": "RECITATION324_247",
+    "mergedcorpus": "RECITATION324_247:茶碗にかかるほど、シャツの袖のふくらかなので、掻き抱くテイに茶碗を持った。",
+    "MYCOEIROINK_corpus": "茶碗にかかるほど、シャツの袖のふくらかなので、掻き抱くテイに茶碗を持った。"
+  },
+  {
+    "ID": "RECITATION324_248",
+    "mergedcorpus": "RECITATION324_248:色々隠して今日まで犯人と共にいる。",
+    "MYCOEIROINK_corpus": "色々隠して今日まで犯人と共にいる。"
+  },
+  {
+    "ID": "RECITATION324_249",
+    "mergedcorpus": "RECITATION324_249:浦子は寝ながら息を引いた。",
+    "MYCOEIROINK_corpus": "浦子は寝ながら息を引いた。"
+  },
+  {
+    "ID": "RECITATION324_250",
+    "mergedcorpus": "RECITATION324_250:兄が邪険にされた。",
+    "MYCOEIROINK_corpus": "兄が邪険にされた。"
+  },
+  {
+    "ID": "RECITATION324_251",
+    "mergedcorpus": "RECITATION324_251:彼は不服そうに呟いた。",
+    "MYCOEIROINK_corpus": "彼は不服そうに呟いた。"
+  },
+  {
+    "ID": "RECITATION324_252",
+    "mergedcorpus": "RECITATION324_252:摸造品ばかりでなく、本物のドイツ将校や兵卒のヘルメットを売っているのもある。",
+    "MYCOEIROINK_corpus": "摸造品ばかりでなく、本物のドイツ将校や兵卒のヘルメットを売っているのもある。"
+  },
+  {
+    "ID": "RECITATION324_253",
+    "mergedcorpus": "RECITATION324_253:彼女と一緒にいると落ち着きます。",
+    "MYCOEIROINK_corpus": "彼女と一緒にいると落ち着きます。"
+  },
+  {
+    "ID": "RECITATION324_254",
+    "mergedcorpus": "RECITATION324_254:困ってる人に向けて寄付をしました。",
+    "MYCOEIROINK_corpus": "困ってる人に向けて寄付をしました。"
+  },
+  {
+    "ID": "RECITATION324_255",
+    "mergedcorpus": "RECITATION324_255:落ち込んでいるのか、うつむいてじっとしている。",
+    "MYCOEIROINK_corpus": "落ち込んでいるのか、うつむいてじっとしている。"
+  },
+  {
+    "ID": "RECITATION324_256",
+    "mergedcorpus": "RECITATION324_256:改良が進むとパンはどんどんおいしくなる。",
+    "MYCOEIROINK_corpus": "改良が進むとパンはどんどんおいしくなる。"
+  },
+  {
+    "ID": "RECITATION324_257",
+    "mergedcorpus": "RECITATION324_257:こんなことを言いながら、気の短いおじいさんは下駄を突っかけて、そそくさと出て行ってしまった。",
+    "MYCOEIROINK_corpus": "こんなことを言いながら、気の短いおじいさんは下駄を突っかけて、そそくさと出て行ってしまった。"
+  },
+  {
+    "ID": "RECITATION324_258",
+    "mergedcorpus": "RECITATION324_258:彼女と初デートの今日は夢うつつ。",
+    "MYCOEIROINK_corpus": "彼女と初デートの今日は夢うつつ。"
+  },
+  {
+    "ID": "RECITATION324_259",
+    "mergedcorpus": "RECITATION324_259:おなじ東京の名をよぶにも、今後はおそらく旧東京と新東京とに区別されるであろう。",
+    "MYCOEIROINK_corpus": "おなじ東京の名をよぶにも、今後はおそらく旧東京と新東京とに区別されるであろう。"
+  },
+  {
+    "ID": "RECITATION324_260",
+    "mergedcorpus": "RECITATION324_260:腰振りを二分間続ける。",
+    "MYCOEIROINK_corpus": "腰振りを二分間続ける。"
+  },
+  {
+    "ID": "RECITATION324_261",
+    "mergedcorpus": "RECITATION324_261:臆病者が逃げ出した。",
+    "MYCOEIROINK_corpus": "臆病者が逃げ出した。"
+  },
+  {
+    "ID": "RECITATION324_262",
+    "mergedcorpus": "RECITATION324_262:絵葉書と一緒に銀色のルアーをマッシュに送った。",
+    "MYCOEIROINK_corpus": "絵葉書と一緒に銀色のルアーをマッシュに送った。"
+  },
+  {
+    "ID": "RECITATION324_263",
+    "mergedcorpus": "RECITATION324_263:オムライスにはケチャップが一番。",
+    "MYCOEIROINK_corpus": "オムライスにはケチャップが一番。"
+  },
+  {
+    "ID": "RECITATION324_264",
+    "mergedcorpus": "RECITATION324_264:ストレスは適度に発散しましょう。",
+    "MYCOEIROINK_corpus": "ストレスは適度に発散しましょう。"
+  },
+  {
+    "ID": "RECITATION324_265",
+    "mergedcorpus": "RECITATION324_265:この人よりぞ始まりける。",
+    "MYCOEIROINK_corpus": "この人よりぞ始まりける。"
+  },
+  {
+    "ID": "RECITATION324_266",
+    "mergedcorpus": "RECITATION324_266:中学生の時、避暑旅行中に体調を崩した。",
+    "MYCOEIROINK_corpus": "中学生の時、避暑旅行中に体調を崩した。"
+  },
+  {
+    "ID": "RECITATION324_267",
+    "mergedcorpus": "RECITATION324_267:軍医は病院の門に入るのである。",
+    "MYCOEIROINK_corpus": "軍医は病院の門に入るのである。"
+  },
+  {
+    "ID": "RECITATION324_268",
+    "mergedcorpus": "RECITATION324_268:一日中明るい白夜は、一切太陽が沈まないことで起こります。",
+    "MYCOEIROINK_corpus": "一日中明るい白夜は、一切太陽が沈まないことで起こります。"
+  },
+  {
+    "ID": "RECITATION324_269",
+    "mergedcorpus": "RECITATION324_269:もう、あなたにばかりも精一杯、誰にも見せられます体ではないんです。",
+    "MYCOEIROINK_corpus": "もう、あなたにばかりも精一杯、誰にも見せられます体ではないんです。"
+  },
+  {
+    "ID": "RECITATION324_270",
+    "mergedcorpus": "RECITATION324_270:みんな揃って海に飛び込んだ。",
+    "MYCOEIROINK_corpus": "みんな揃って海に飛び込んだ。"
+  },
+  {
+    "ID": "RECITATION324_271",
+    "mergedcorpus": "RECITATION324_271:なんだそりゃ、到底無理なお願いだ。",
+    "MYCOEIROINK_corpus": "なんだそりゃ、到底無理なお願いだ。"
+  },
+  {
+    "ID": "RECITATION324_272",
+    "mergedcorpus": "RECITATION324_272:腸チフスは怖い病気。",
+    "MYCOEIROINK_corpus": "腸チフスは怖い病気。"
+  },
+  {
+    "ID": "RECITATION324_273",
+    "mergedcorpus": "RECITATION324_273:排球はバレーボールの事です。",
+    "MYCOEIROINK_corpus": "排球はバレーボールの事です。"
+  },
+  {
+    "ID": "RECITATION324_274",
+    "mergedcorpus": "RECITATION324_274:マッチを買いに入ったのかな。",
+    "MYCOEIROINK_corpus": "マッチを買いに入ったのかな。"
+  },
+  {
+    "ID": "RECITATION324_275",
+    "mergedcorpus": "RECITATION324_275:盆栽は風情がある。",
+    "MYCOEIROINK_corpus": "盆栽は風情がある。"
+  },
+  {
+    "ID": "RECITATION324_276",
+    "mergedcorpus": "RECITATION324_276:やがて陪審員は合議をするために法廷を出て行った。",
+    "MYCOEIROINK_corpus": "やがて陪審員は合議をするために法廷を出て行った。"
+  },
+  {
+    "ID": "RECITATION324_277",
+    "mergedcorpus": "RECITATION324_277:芸術の求める永遠性に疑問を感じる。",
+    "MYCOEIROINK_corpus": "芸術の求める永遠性に疑問を感じる。"
+  },
+  {
+    "ID": "RECITATION324_278",
+    "mergedcorpus": "RECITATION324_278:聞きつけて、クダンの嫗、ぶるぶるとかぶりをふった。",
+    "MYCOEIROINK_corpus": "聞きつけて、クダンの嫗、ぶるぶるとかぶりをふった。"
+  },
+  {
+    "ID": "RECITATION324_279",
+    "mergedcorpus": "RECITATION324_279:キェルツェを通ってドビェに、ザリピェからミェイに行く。",
+    "MYCOEIROINK_corpus": "キェルツェを通ってドビェに、ザリピェからミェイに行く。"
+  },
+  {
+    "ID": "RECITATION324_280",
+    "mergedcorpus": "RECITATION324_280:マリアーンスケーラーズニェを訪れる。",
+    "MYCOEIROINK_corpus": "マリアーンスケーラーズニェを訪れる。"
+  },
+  {
+    "ID": "RECITATION324_281",
+    "mergedcorpus": "RECITATION324_281:乳牛を見ながら、レテュの入ったピッツァを食べる。",
+    "MYCOEIROINK_corpus": "乳牛を見ながら、レテュの入ったピッツァを食べる。"
+  },
+  {
+    "ID": "RECITATION324_282",
+    "mergedcorpus": "RECITATION324_282:ウドゥの奏者を施療した。",
+    "MYCOEIROINK_corpus": "ウドゥの奏者を施療した。"
+  },
+  {
+    "ID": "RECITATION324_283",
+    "mergedcorpus": "RECITATION324_283:インスティテュートで、リデュースの話と併せて、ルデュックの話も聞いた。",
+    "MYCOEIROINK_corpus": "インスティテュートで、リデュースの話と併せて、ルデュックの話も聞いた。"
+  },
+  {
+    "ID": "RECITATION324_284",
+    "mergedcorpus": "RECITATION324_284:ギェナーを見てイェーイと叫ぶ。",
+    "MYCOEIROINK_corpus": "ギェナーを見てイェーイと叫ぶ。"
+  },
+  {
+    "ID": "RECITATION324_285",
+    "mergedcorpus": "RECITATION324_285:スィーディーを聞きながら、でゃーこんを食べる。",
+    "MYCOEIROINK_corpus": "スィーディーを聞きながら、でゃーこんを食べる。"
+  },
+  {
+    "ID": "RECITATION324_286",
+    "mergedcorpus": "RECITATION324_286:テョさんはズィーブラを見た。",
+    "MYCOEIROINK_corpus": "テョさんはズィーブラを見た。"
+  },
+  {
+    "ID": "RECITATION324_287",
+    "mergedcorpus": "RECITATION324_287:レヴォリューション。レギュレーション。エデュケーション。",
+    "MYCOEIROINK_corpus": "レヴォリューション。レギュレーション。エデュケーション。"
+  },
+  {
+    "ID": "RECITATION324_288",
+    "mergedcorpus": "RECITATION324_288:ブレンドデョート。ラーテャン。",
+    "MYCOEIROINK_corpus": "ブレンドデョート。ラーテャン。"
+  },
+  {
+    "ID": "RECITATION324_289",
+    "mergedcorpus": "RECITATION324_289:あっあの。いっいえ。えっえぇ。おっおい。んーとね。",
+    "MYCOEIROINK_corpus": "あっあの。いっいえ。えっえぇ。おっおい。んーとね。"
+  },
+  {
+    "ID": "RECITATION324_290",
+    "mergedcorpus": "RECITATION324_290:いぶかしげに見上げた雨雲から、コハクイロのドラゴンがギュンと現れた。",
+    "MYCOEIROINK_corpus": "いぶかしげに見上げた雨雲から、コハクイロのドラゴンがギュンと現れた。"
+  },
+  {
+    "ID": "RECITATION324_291",
+    "mergedcorpus": "RECITATION324_291:布でギュギュっとヌンチャクを縛る。",
+    "MYCOEIROINK_corpus": "布でギュギュっとヌンチャクを縛る。"
+  },
+  {
+    "ID": "RECITATION324_292",
+    "mergedcorpus": "RECITATION324_292:服を脱ぐが、いつも上下が逆さまだ。",
+    "MYCOEIROINK_corpus": "服を脱ぐが、いつも上下が逆さまだ。"
+  },
+  {
+    "ID": "RECITATION324_293",
+    "mergedcorpus": "RECITATION324_293:放課後の音楽室で、コウオンを頑張って出した。",
+    "MYCOEIROINK_corpus": "放課後の音楽室で、コウオンを頑張って出した。"
+  },
+  {
+    "ID": "RECITATION324_294",
+    "mergedcorpus": "RECITATION324_294:モゴモゴしながら言うギャグは面白くない。",
+    "MYCOEIROINK_corpus": "モゴモゴしながら言うギャグは面白くない。"
+  },
+  {
+    "ID": "RECITATION324_295",
+    "mergedcorpus": "RECITATION324_295:海水魚の漁業の一環として、稚魚が育てられている。",
+    "MYCOEIROINK_corpus": "海水魚の漁業の一環として、稚魚が育てられている。"
+  },
+  {
+    "ID": "RECITATION324_296",
+    "mergedcorpus": "RECITATION324_296:ムンムンとした熱気に、あの淡水魚もへとへとになっている。",
+    "MYCOEIROINK_corpus": "ムンムンとした熱気に、あの淡水魚もへとへとになっている。"
+  },
+  {
+    "ID": "RECITATION324_297",
+    "mergedcorpus": "RECITATION324_297:ヘスティア所長は、ジュウニオン音楽の作法を知っている。",
+    "MYCOEIROINK_corpus": "ヘスティア所長は、ジュウニオン音楽の作法を知っている。"
+  },
+  {
+    "ID": "RECITATION324_298",
+    "mergedcorpus": "RECITATION324_298:主催者は、このフェスのキャパが小さいことを、セシルから聞いた。",
+    "MYCOEIROINK_corpus": "主催者は、このフェスのキャパが小さいことを、セシルから聞いた。"
+  },
+  {
+    "ID": "RECITATION324_299",
+    "mergedcorpus": "RECITATION324_299:母は、サフランライスと、さつまいもの入ったシチューと、ポトフをハフハフしながら食べた。",
+    "MYCOEIROINK_corpus": "母は、サフランライスと、さつまいもの入ったシチューと、ポトフをハフハフしながら食べた。"
+  },
+  {
+    "ID": "RECITATION324_300",
+    "mergedcorpus": "RECITATION324_300:そして、左京とチサはヘファ駅に着いた。",
+    "MYCOEIROINK_corpus": "そして、左京とチサはヘファ駅に着いた。"
+  },
+  {
+    "ID": "RECITATION324_301",
+    "mergedcorpus": "RECITATION324_301:ネモトと曽原は主君を批判した。",
+    "MYCOEIROINK_corpus": "ネモトと曽原は主君を批判した。"
+  },
+  {
+    "ID": "RECITATION324_302",
+    "mergedcorpus": "RECITATION324_302:ケケっと笑いながら、津原はパトカーに乗った。",
+    "MYCOEIROINK_corpus": "ケケっと笑いながら、津原はパトカーに乗った。"
+  },
+  {
+    "ID": "RECITATION324_303",
+    "mergedcorpus": "RECITATION324_303:キュキュッと鳴らした靴でパスを出した。",
+    "MYCOEIROINK_corpus": "キュキュッと鳴らした靴でパスを出した。"
+  },
+  {
+    "ID": "RECITATION324_304",
+    "mergedcorpus": "RECITATION324_304:ティファニーはパピーにムギュッと抱き着きながら、チュチュッとキスをし、センキュと言った。",
+    "MYCOEIROINK_corpus": "ティファニーはパピーにムギュッと抱き着きながら、チュチュッとキスをし、センキュと言った。"
+  },
+  {
+    "ID": "RECITATION324_305",
+    "mergedcorpus": "RECITATION324_305:その義軍は、一ヘクタールほふく前進をした。",
+    "MYCOEIROINK_corpus": "その義軍は、一ヘクタールほふく前進をした。"
+  },
+  {
+    "ID": "RECITATION324_306",
+    "mergedcorpus": "RECITATION324_306:へへっと、きゃつは媚びへつらった。",
+    "MYCOEIROINK_corpus": "へへっと、きゃつは媚びへつらった。"
+  },
+  {
+    "ID": "RECITATION324_307",
+    "mergedcorpus": "RECITATION324_307:ほとんどの被調査者は、写真を車載した。",
+    "MYCOEIROINK_corpus": "ほとんどの被調査者は、写真を車載した。"
+  },
+  {
+    "ID": "RECITATION324_308",
+    "mergedcorpus": "RECITATION324_308:補佐が、一酸化炭素中毒になるというハプニングは起きなかった。",
+    "MYCOEIROINK_corpus": "補佐が、一酸化炭素中毒になるというハプニングは起きなかった。"
+  },
+  {
+    "ID": "RECITATION324_309",
+    "mergedcorpus": "RECITATION324_309:スチューデントが被災するファクターを、可能な限り取り払う。",
+    "MYCOEIROINK_corpus": "スチューデントが被災するファクターを、可能な限り取り払う。"
+  },
+  {
+    "ID": "RECITATION324_310",
+    "mergedcorpus": "RECITATION324_310:カフェとは、ブレックファストとして、フォカッチャを食べれる場所でもある。",
+    "MYCOEIROINK_corpus": "カフェとは、ブレックファストとして、フォカッチャを食べれる場所でもある。"
+  },
+  {
+    "ID": "RECITATION324_311",
+    "mergedcorpus": "RECITATION324_311:普通、初級者では、コウオンを伸ばすことはできない。",
+    "MYCOEIROINK_corpus": "普通、初級者では、コウオンを伸ばすことはできない。"
+  },
+  {
+    "ID": "RECITATION324_312",
+    "mergedcorpus": "RECITATION324_312:彼からしたら、左中間から見る景色は貴重だった。",
+    "MYCOEIROINK_corpus": "彼からしたら、左中間から見る景色は貴重だった。"
+  },
+  {
+    "ID": "RECITATION324_313",
+    "mergedcorpus": "RECITATION324_313:シェパードと同居中に、フォスターはその格付け表を見た。",
+    "MYCOEIROINK_corpus": "シェパードと同居中に、フォスターはその格付け表を見た。"
+  },
+  {
+    "ID": "RECITATION324_314",
+    "mergedcorpus": "RECITATION324_314:キョキョネン、虚数と屁長調について学んだ。",
+    "MYCOEIROINK_corpus": "キョキョネン、虚数と屁長調について学んだ。"
+  },
+  {
+    "ID": "RECITATION324_315",
+    "mergedcorpus": "RECITATION324_315:脚立の上でヒュヒューと風が吹くと、彼は背筋を伸ばした。",
+    "MYCOEIROINK_corpus": "脚立の上でヒュヒューと風が吹くと、彼は背筋を伸ばした。"
+  },
+  {
+    "ID": "RECITATION324_316",
+    "mergedcorpus": "RECITATION324_316:昼にはペスカトーレを、夜には寿司をパクパク食べた。",
+    "MYCOEIROINK_corpus": "昼にはペスカトーレを、夜には寿司をパクパク食べた。"
+  },
+  {
+    "ID": "RECITATION324_317",
+    "mergedcorpus": "RECITATION324_317:ケフィアに関するこの本は、初版では三百部くらいだったが、次から波及的に増加した。",
+    "MYCOEIROINK_corpus": "ケフィアに関するこの本は、初版では三百部くらいだったが、次から波及的に増加した。"
+  },
+  {
+    "ID": "RECITATION324_318",
+    "mergedcorpus": "RECITATION324_318:皮膚が私のフェチである。",
+    "MYCOEIROINK_corpus": "皮膚が私のフェチである。"
+  },
+  {
+    "ID": "RECITATION324_319",
+    "mergedcorpus": "RECITATION324_319:社販で巨富を築くという、彼の目論見は途中でへし折られた。",
+    "MYCOEIROINK_corpus": "社販で巨富を築くという、彼の目論見は途中でへし折られた。"
+  },
+  {
+    "ID": "RECITATION324_320",
+    "mergedcorpus": "RECITATION324_320:サヒョウのとおりの支出になることが、ある意味わが社の社風である。",
+    "MYCOEIROINK_corpus": "サヒョウのとおりの支出になることが、ある意味わが社の社風である。"
+  },
+  {
+    "ID": "RECITATION324_321",
+    "mergedcorpus": "RECITATION324_321:この古風なシュヒョウは故郷のものだ。",
+    "MYCOEIROINK_corpus": "この古風なシュヒョウは故郷のものだ。"
+  },
+  {
+    "ID": "RECITATION324_322",
+    "mergedcorpus": "RECITATION324_322:そのほつれが腐敗しているというのは、誇張した表現だと思う。",
+    "MYCOEIROINK_corpus": "そのほつれが腐敗しているというのは、誇張した表現だと思う。"
+  },
+  {
+    "ID": "RECITATION324_323",
+    "mergedcorpus": "RECITATION324_323:その映画の出演者である彼が、主犯である可能性はフィフティーフィフティーだ。",
+    "MYCOEIROINK_corpus": "その映画の出演者である彼が、主犯である可能性はフィフティーフィフティーだ。"
+  },
+  {
+    "ID": "RECITATION324_324",
+    "mergedcorpus": "RECITATION324_324:チュクンの波長は、パツンと共通している。",
+    "MYCOEIROINK_corpus": "チュクンの波長は、パツンと共通している。"
+  },
+  {
+    "ID": "SETSUZOKU_001",
+    "mergedcorpus": "SETSUZOKU_001:はい、そういうことですね。",
+    "MYCOEIROINK_corpus": "はい、そういうことですね。"
+  },
+  {
+    "ID": "SETSUZOKU_002",
+    "mergedcorpus": "SETSUZOKU_002:いいえ、そうではありません。",
+    "MYCOEIROINK_corpus": "いいえ、そうではありません。"
+  },
+  {
+    "ID": "SETSUZOKU_003",
+    "mergedcorpus": "SETSUZOKU_003:はいはい、次に進もうね。",
+    "MYCOEIROINK_corpus": "はいはい、次に進もうね。"
+  },
+  {
+    "ID": "SETSUZOKU_004",
+    "mergedcorpus": "SETSUZOKU_004:そういえば、あれってどうなったんでしたっけ？",
+    "MYCOEIROINK_corpus": "そういえば、あれってどうなったんでしたっけ？"
+  },
+  {
+    "ID": "SETSUZOKU_005",
+    "mergedcorpus": "SETSUZOKU_005:いえいえ、ぼくが悪いのです。",
+    "MYCOEIROINK_corpus": "いえいえ、ぼくが悪いのです。"
+  },
+  {
+    "ID": "SETSUZOKU_006",
+    "mergedcorpus": "SETSUZOKU_006:いえ、ウィンドウは開いたままで大丈夫です。",
+    "MYCOEIROINK_corpus": "いえ、ウィンドウは開いたままで大丈夫です。"
+  },
+  {
+    "ID": "SETSUZOKU_007",
+    "mergedcorpus": "SETSUZOKU_007:うん、左折すれば合流できるよ。",
+    "MYCOEIROINK_corpus": "うん、左折すれば合流できるよ。"
+  },
+  {
+    "ID": "SETSUZOKU_008",
+    "mergedcorpus": "SETSUZOKU_008:でも、チェイン攻撃が切れちゃ勝てないよ？",
+    "MYCOEIROINK_corpus": "でも、チェイン攻撃が切れちゃ勝てないよ？"
+  },
+  {
+    "ID": "SETSUZOKU_009",
+    "mergedcorpus": "SETSUZOKU_009:そう、だから、これの出番ってことだよね？",
+    "MYCOEIROINK_corpus": "そう、だから、これの出番ってことだよね？"
+  },
+  {
+    "ID": "SETSUZOKU_010",
+    "mergedcorpus": "SETSUZOKU_010:おっと、言い忘れてました。",
+    "MYCOEIROINK_corpus": "おっと、言い忘れてました。"
+  },
+  {
+    "ID": "SETSUZOKU_011",
+    "mergedcorpus": "SETSUZOKU_011:はーい、わたしに任せて？",
+    "MYCOEIROINK_corpus": "はーい、わたしに任せて？"
+  },
+  {
+    "ID": "SETSUZOKU_012",
+    "mergedcorpus": "SETSUZOKU_012:うーん、言いたいことは分かるんだけどね？",
+    "MYCOEIROINK_corpus": "うーん、言いたいことは分かるんだけどね？"
+  },
+  {
+    "ID": "SETSUZOKU_013",
+    "mergedcorpus": "SETSUZOKU_013:えっと、どこでつまずいちゃったのかな？",
+    "MYCOEIROINK_corpus": "えっと、どこでつまずいちゃったのかな？"
+  },
+  {
+    "ID": "SETSUZOKU_014",
+    "mergedcorpus": "SETSUZOKU_014:よーし、キャンプファイヤーの準備を始めよう。",
+    "MYCOEIROINK_corpus": "よーし、キャンプファイヤーの準備を始めよう。"
+  },
+  {
+    "ID": "SETSUZOKU_015",
+    "mergedcorpus": "SETSUZOKU_015:あー、そこ、間違ってるわ。",
+    "MYCOEIROINK_corpus": "あー、そこ、間違ってるわ。"
+  },
+  {
+    "ID": "SETSUZOKU_016",
+    "mergedcorpus": "SETSUZOKU_016:えーん、いつまでたっても終わらないや。",
+    "MYCOEIROINK_corpus": "えーん、いつまでたっても終わらないや。"
+  },
+  {
+    "ID": "SETSUZOKU_017",
+    "mergedcorpus": "SETSUZOKU_017:んーと、ちょっとそこで待っててくれる？",
+    "MYCOEIROINK_corpus": "んーと、ちょっとそこで待っててくれる？"
+  },
+  {
+    "ID": "SETSUZOKU_018",
+    "mergedcorpus": "SETSUZOKU_018:これ、どこにあったんだっけ？",
+    "MYCOEIROINK_corpus": "これ、どこにあったんだっけ？"
+  },
+  {
+    "ID": "SETSUZOKU_019",
+    "mergedcorpus": "SETSUZOKU_019:こっち、前に来たことあった？",
+    "MYCOEIROINK_corpus": "こっち、前に来たことあった？"
+  },
+  {
+    "ID": "SETSUZOKU_020",
+    "mergedcorpus": "SETSUZOKU_020:それ、持ってきてもらっていい？",
+    "MYCOEIROINK_corpus": "それ、持ってきてもらっていい？"
+  },
+  {
+    "ID": "SETSUZOKU_021",
+    "mergedcorpus": "SETSUZOKU_021:そっち、危ないって言ったもん。",
+    "MYCOEIROINK_corpus": "そっち、危ないって言ったもん。"
+  },
+  {
+    "ID": "SETSUZOKU_022",
+    "mergedcorpus": "SETSUZOKU_022:あれ、どうやって進んだの？",
+    "MYCOEIROINK_corpus": "あれ、どうやって進んだの？"
+  },
+  {
+    "ID": "SETSUZOKU_023",
+    "mergedcorpus": "SETSUZOKU_023:あそこ、本当に難しかったでしょ？",
+    "MYCOEIROINK_corpus": "あそこ、本当に難しかったでしょ？"
+  },
+  {
+    "ID": "SETSUZOKU_024",
+    "mergedcorpus": "SETSUZOKU_024:ジャンプで、あっち、行けるかな？",
+    "MYCOEIROINK_corpus": "ジャンプで、あっち、行けるかな？"
+  },
+  {
+    "ID": "SETSUZOKU_025",
+    "mergedcorpus": "SETSUZOKU_025:さっき言ってたのって、どれ？",
+    "MYCOEIROINK_corpus": "さっき言ってたのって、どれ？"
+  },
+  {
+    "ID": "SETSUZOKU_026",
+    "mergedcorpus": "SETSUZOKU_026:ミャンマーって、どっち？",
+    "MYCOEIROINK_corpus": "ミャンマーって、どっち？"
+  },
+  {
+    "ID": "SETSUZOKU_027",
+    "mergedcorpus": "SETSUZOKU_027:わたし、上級者コースにチャレンジしてみるよ。",
+    "MYCOEIROINK_corpus": "わたし、上級者コースにチャレンジしてみるよ。"
+  },
+  {
+    "ID": "SETSUZOKU_028",
+    "mergedcorpus": "SETSUZOKU_028:僕、シュレディンガーの猫が1番好きかも。",
+    "MYCOEIROINK_corpus": "僕、シュレディンガーの猫が1番好きかも。"
+  },
+  {
+    "ID": "SETSUZOKU_029",
+    "mergedcorpus": "SETSUZOKU_029:でも、またここに来ることになるよね？",
+    "MYCOEIROINK_corpus": "でも、またここに来ることになるよね？"
+  },
+  {
+    "ID": "SETSUZOKU_030",
+    "mergedcorpus": "SETSUZOKU_030:まあ、確かに、そういう側面もあるかも。",
+    "MYCOEIROINK_corpus": "まあ、確かに、そういう側面もあるかも。"
+  },
+  {
+    "ID": "SETSUZOKU_031",
+    "mergedcorpus": "SETSUZOKU_031:ですが、教授の意見も一理あります。",
+    "MYCOEIROINK_corpus": "ですが、教授の意見も一理あります。"
+  },
+  {
+    "ID": "SETSUZOKU_032",
+    "mergedcorpus": "SETSUZOKU_032:ですね、ぬいぐるみは拾っておきましょう。",
+    "MYCOEIROINK_corpus": "ですね、ぬいぐるみは拾っておきましょう。"
+  },
+  {
+    "ID": "SETSUZOKU_033",
+    "mergedcorpus": "SETSUZOKU_033:だから、潔癖症って言ってたじゃん。",
+    "MYCOEIROINK_corpus": "だから、潔癖症って言ってたじゃん。"
+  },
+  {
+    "ID": "SETSUZOKU_034",
+    "mergedcorpus": "SETSUZOKU_034:そして、今に至るってわけ？",
+    "MYCOEIROINK_corpus": "そして、今に至るってわけ？"
+  },
+  {
+    "ID": "SETSUZOKU_035",
+    "mergedcorpus": "SETSUZOKU_035:例えば、ミョウガを用意してみるとか。",
+    "MYCOEIROINK_corpus": "例えば、ミョウガを用意してみるとか。"
+  },
+  {
+    "ID": "SETSUZOKU_036",
+    "mergedcorpus": "SETSUZOKU_036:一方、ミュージカル映画を観ていた彼女たち。",
+    "MYCOEIROINK_corpus": "一方、ミュージカル映画を観ていた彼女たち。"
+  },
+  {
+    "ID": "SETSUZOKU_037",
+    "mergedcorpus": "SETSUZOKU_037:もしも、地球が平らだったらどうなるの？",
+    "MYCOEIROINK_corpus": "もしも、地球が平らだったらどうなるの？"
+  },
+  {
+    "ID": "SETSUZOKU_038",
+    "mergedcorpus": "SETSUZOKU_038:それに、納品予定日に間に合わないよ。",
+    "MYCOEIROINK_corpus": "それに、納品予定日に間に合わないよ。"
+  },
+  {
+    "ID": "SETSUZOKU_039",
+    "mergedcorpus": "SETSUZOKU_039:だけど、引き返したほうが早くない？",
+    "MYCOEIROINK_corpus": "だけど、引き返したほうが早くない？"
+  },
+  {
+    "ID": "SETSUZOKU_040",
+    "mergedcorpus": "SETSUZOKU_040:なにしろ、着の身着のまま飛び出してきたもんだから。",
+    "MYCOEIROINK_corpus": "なにしろ、着の身着のまま飛び出してきたもんだから。"
+  },
+  {
+    "ID": "SETSUZOKU_041",
+    "mergedcorpus": "SETSUZOKU_041:さらに、幽霊まで出てきたとあっちゃたまらない。",
+    "MYCOEIROINK_corpus": "さらに、幽霊まで出てきたとあっちゃたまらない。"
+  },
+  {
+    "ID": "SETSUZOKU_042",
+    "mergedcorpus": "SETSUZOKU_042:または、投票先をひとつに絞ってしまうとか。",
+    "MYCOEIROINK_corpus": "または、投票先をひとつに絞ってしまうとか。"
+  },
+  {
+    "ID": "SETSUZOKU_043",
+    "mergedcorpus": "SETSUZOKU_043:じゃあ、話題の映画を見に行こっか。",
+    "MYCOEIROINK_corpus": "じゃあ、話題の映画を見に行こっか。"
+  },
+  {
+    "ID": "SETSUZOKU_044",
+    "mergedcorpus": "SETSUZOKU_044:だって、なんか最近起きれないんだもん。",
+    "MYCOEIROINK_corpus": "だって、なんか最近起きれないんだもん。"
+  },
+  {
+    "ID": "SETSUZOKU_045",
+    "mergedcorpus": "SETSUZOKU_045:けど、リツイートしてくれたらめっちゃ嬉しいわ。",
+    "MYCOEIROINK_corpus": "けど、リツイートしてくれたらめっちゃ嬉しいわ。"
+  },
+  {
+    "ID": "SETSUZOKU_046",
+    "mergedcorpus": "SETSUZOKU_046:んで、なにがあった？",
+    "MYCOEIROINK_corpus": "んで、なにがあった？"
+  },
+  {
+    "ID": "SETSUZOKU_047",
+    "mergedcorpus": "SETSUZOKU_047:ただ、人間って不思議だなって思っただけだよ。",
+    "MYCOEIROINK_corpus": "ただ、人間って不思議だなって思っただけだよ。"
+  },
+  {
+    "ID": "SETSUZOKU_048",
+    "mergedcorpus": "SETSUZOKU_048:さて、そろそろ答え合わせといきましょうか。",
+    "MYCOEIROINK_corpus": "さて、そろそろ答え合わせといきましょうか。"
+  },
+  {
+    "ID": "SETSUZOKU_049",
+    "mergedcorpus": "SETSUZOKU_049:きっと、みんなにすぐ追いつくよ。",
+    "MYCOEIROINK_corpus": "きっと、みんなにすぐ追いつくよ。"
+  },
+  {
+    "ID": "SETSUZOKU_050",
+    "mergedcorpus": "SETSUZOKU_050:そっか、じゃあ安心だね。",
+    "MYCOEIROINK_corpus": "そっか、じゃあ安心だね。"
+  },
+  {
+    "ID": "SETSUZOKU_051",
+    "mergedcorpus": "SETSUZOKU_051:とにかく、エチュードの訓練をかさねるしかない。",
+    "MYCOEIROINK_corpus": "とにかく、エチュードの訓練をかさねるしかない。"
+  },
+  {
+    "ID": "SETSUZOKU_052",
+    "mergedcorpus": "SETSUZOKU_052:さて、仕上がりはどうなったかなっと。",
+    "MYCOEIROINK_corpus": "さて、仕上がりはどうなったかなっと。"
+  },
+  {
+    "ID": "SETSUZOKU_053",
+    "mergedcorpus": "SETSUZOKU_053:もちろん、大好きだよ。",
+    "MYCOEIROINK_corpus": "もちろん、大好きだよ。"
+  },
+  {
+    "ID": "SETSUZOKU_054",
+    "mergedcorpus": "SETSUZOKU_054:つまり、ルールで縛られているってことだね。",
+    "MYCOEIROINK_corpus": "つまり、ルールで縛られているってことだね。"
+  },
+  {
+    "ID": "SETSUZOKU_055",
+    "mergedcorpus": "SETSUZOKU_055:ところで、袋のネズミなわけだけど。",
+    "MYCOEIROINK_corpus": "ところで、袋のネズミなわけだけど。"
+  }
+]
